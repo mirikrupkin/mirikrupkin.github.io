@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Miri Krupkin"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Biological Engineering @MIT"
+  location         : "Boston, MA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=miri+krupkin"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=2U2MWnkAAAAJ&gmla=AJsN-F6z7-y25VizRvFqisO3YmmalDMKzyg0rc0QLJWRXv6BvEJ3VKit688y1ryh6Q_7P3Xg-u1I0dBg18QOfeKFiKsphFklKPAKg9tzxCxJRyS3UNqKwl4"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Miri_Krupkin"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,13 +102,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5917-0894"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@MiriKrupkin"
   vine             :
   weibo            :
   xing             :
