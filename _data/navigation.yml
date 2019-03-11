@@ -1,22 +1,25 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: mirikrupkin.github.io/publications/
 
   - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: mirikrupkin.github.io/talks/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Awards"
+    url: mirikrupkin.github.io/talks/  
+
+#  - title: "Teaching"
+#    url: /teaching/    
+    
+#  - title: "Portfolio"
+#    url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: mirikrupkin.github.io/year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: mirikrupkin.github.io/cv/
     
   - title: "Guide"
-    url: /markdown/
+    url: mirikrupkin.github.io/markdown/
