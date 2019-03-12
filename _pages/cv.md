@@ -130,7 +130,7 @@ Awards and Fellowships
 
 **2013** [Vallee travel fellowship award](https://www.thevalleefoundation.org/programs/lindau/miri-krupkin-msc-0), “The 63rd Lindau Nobel Laureate Meeting”, Germany.
 
-**2012 - 2016** [Adams Ph.D. fellowship of the Israel Academy of Sciences and Humanities](http://adams.academy.ac.il/fellow/miri-krupkin/). 
+**2012 - 2016** [Adams Ph.D. fellowship](http://adams.academy.ac.il/fellow/miri-krupkin/) of the Israel Academy of Sciences and Humanities. 
 
 **2007** Schächter summer scholarship for research, Bar-Ilan University.
 
@@ -139,13 +139,13 @@ Awards and Fellowships
   
 Other Activities
 ======
-**2019** Organizer of the [MIT-Harvard Microbiome symposium](https://microbiome2019.wordpress.com), Boston. 
+**2019** Organizer of the [4th Annual MIT-Harvard Microbiome Symposium](https://microbiome2019.wordpress.com), Boston. 
 
 **2018- present** Organizer of “GlycoBioClub”- the MIT Glycobiology journal club, MIT.  
 
 **2017- present** Science outreach at the Boston Science Museum, Boston.  
 
-**2015** Organizer of the Frontiers in Chemical Sciences symposium, Israel.
+**2015** Organizer of the [Frontiers in Chemical Sciences Symposium](http://www.weizmann.ac.il/chemistry/sites/chemistry/files/17323poster16508_13.pdf), Israel.
 
 **2013** Chair of Weizmann Institute Student Council.
 
