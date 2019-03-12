@@ -29,14 +29,3 @@ Ben-Gurion University, Israel.
 - **Oral presentation**: “A vestige of a prebiotic bonding entity is functioning within the contemporary ribosome”. Israel Society for Astrobiology and the Origin of Life (ILASOL), 26th annual meeting, Weizmann Institute of Science, Israel.
 
   
-
-
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
