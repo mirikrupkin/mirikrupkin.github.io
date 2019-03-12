@@ -88,7 +88,7 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=miri+krupkin"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=2U2MWnkAAAAJ&gmla=AJsN-F6z7-y25VizRvFqisO3YmmalDMKzyg0rc0QLJWRXv6BvEJ3VKit688y1ryh6Q_7P3Xg-u1I0dBg18QOfeKFiKsphFklKPAKg9tzxCxJRyS3UNqKwl4"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Miri_Krupkin"
+  researchgate     : # "https://www.researchgate.net/profile/Miri_Krupkin"
   uri              :
   bitbucket        :
   codepen          :
