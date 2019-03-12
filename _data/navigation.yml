@@ -5,7 +5,10 @@ main:
 
 #  - title: "Talks"
 #    url: /talks/    
-    
+
+   - title: "About"
+    url: /about/ 
+ 
   - title: "Awards"
     url: /awards/  
 
