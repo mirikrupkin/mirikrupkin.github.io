@@ -11,30 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**2017 - present**  Postdoctoral associate, Massachusetts Institute of Technology.
+**2011 - 2016**     Ph.D. in Structural Biology, Weizmann Institute of Science.
+**2008 - 2011**     M.Sc. in Structural Biology, Weizmann Institute of Science.
+**2005 - 2008**     B.Sc. in Chemistry, Bar-Ilan University, graduated magna cum laude.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+
+
+Research experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+**2017 - present**  Postdoc, laboratory of Prof. Katharina Ribbeck,
+                    Massachusetts Institute of Technology.
+                    Research focus: Mucus in health and disease. 
+
+**2011 - 2016**     Ph.D., laboratory of Prof. Ada Yonath, 
+                    Weizmann Institute of Science.
+                    Thesis: The Origin of the Ribosome and its Paralyzation by Antibiotics.
+
+**2009 - 2011**     M.Sc., laboratory of Prof. Ada Yonath, 
+                    Weizmann Institute of Science.
+                    Thesis: Towards the Determination of the Structure of Mycobacterium smegmatis Ribosome.
+
+**2008 - 2009**     Rotations at Weizmann Institute of Science:
+                    - Ribosome structure and function, laboratory of Prof. Ada Yonath. 
+                    - Organized lipid domains, laboratory of Prof. Lia Addadi.
+                    - Nano and bio composite materials, laboratory of Prof. Daniel Wagner.
+
+**2007 - 2008**     Undergraduate research at Bar Ilan University:
+                    Conducting polymers, laboratory of Dr. Joseph Frey, Bar-Ilan.
+
 
 Publications
 ======
