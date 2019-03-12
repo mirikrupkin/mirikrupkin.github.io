@@ -1,7 +1,7 @@
 	---
-	permalink: /awards/
+	layout: archive
 	title: "Awards"
-	excerpt: "Awards me"
+	permalink: /awards/
 	author_profile: true
 	redirect_from: 
 	  - /awards/
