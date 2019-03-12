@@ -24,7 +24,6 @@ Education
 
 Research experience
 ======
-
 **2017 - present**  Postdoc, laboratory of Prof. Katharina Ribbeck,
                     Massachusetts Institute of Technology.
                     Research focus: Mucus in health and disease. 
@@ -44,6 +43,8 @@ Research experience
 
 **2007 - 2008**     Undergraduate research at Bar Ilan University:
                     Conducting polymers, laboratory of Dr. Joseph Frey, Bar-Ilan.
+
+
 
 
 Publications
@@ -74,6 +75,8 @@ Davidovich C, Belousoff M, Wekselman I, Shapira T, **Krupkin M**, Zimmerman E, B
 
 ' Equal contribution.
 
+  
+  
   
 Conferences and Presentations 
 ======
@@ -107,6 +110,8 @@ Ben-Gurion University, Israel.
 - **Oral presentation**: “A vestige of a prebiotic bonding entity is functioning within the contemporary ribosome”. Israel Society for Astrobiology and the Origin of Life (ILASOL), 26th annual meeting, Weizmann Institute of Science, Israel.
 
   
+  
+  
 Awards and Fellowships
 ======
 **2016** Best oral presentation, Genetics, Genomics and Evolution conference, Tel Aviv University.
@@ -120,6 +125,8 @@ Awards and Fellowships
 **2007** Schächter summer scholarship for research, Bar-Ilan University.
 
 **2006** Dean's Honors list, Bar-Ilan University.
+
+
 
   
 Other Activities
