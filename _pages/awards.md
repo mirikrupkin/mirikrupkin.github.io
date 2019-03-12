@@ -1,5 +1,5 @@
----
-	permalink: /
+	---
+	permalink: /awards/
 	title: "Awards"
 	excerpt: "Awards me"
 	author_profile: true
