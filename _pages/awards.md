@@ -1,15 +1,13 @@
-
 ---
 layout: archive
-title: "Awards and Fellowships"
+title: "Awards"
 permalink: /awards/
 author_profile: true
 redirect_from:
   - /awards/
 ---
 
-Awards and Fellowships
-======
+
 **2016** Best oral presentation, Genetics, Genomics and Evolution conference, Tel Aviv University.
 
 **2015** Travel fellowship award, Cincinnati Children’s Hospital Medical Center, Ohio, USA.
