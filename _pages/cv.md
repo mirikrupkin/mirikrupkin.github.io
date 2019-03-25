@@ -25,7 +25,9 @@ Education
 Research experience
 ======
 **2017 - present**  Postdoc, laboratory of Prof. Katharina Ribbeck,
+                    
                     Massachusetts Institute of Technology.
+                    
                     Research focus: Mucus in health and disease. 
 
 **2011 - 2016**     Ph.D., laboratory of Prof. Ada Yonath, 
