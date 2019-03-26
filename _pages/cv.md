@@ -109,6 +109,10 @@ Ben-Gurion University, Israel.
 
 - **Oral presentation**: “A vestige of a prebiotic bonding entity is functioning within the contemporary ribosome”. Israel Society for Astrobiology and the Origin of Life (ILASOL), 26th annual meeting, Weizmann Institute of Science, Israel.
 
+**2011**
+
+- **Poster presentation**: “Mycobacterium Smegmatis Ribosome As A Tool For A Structural Insight Into Antibiotics Action On Pathogens”. Federation of the Israel Societies for Experimental Biology- FISEB, 6th ILANIT conference, Eilat, Israel.
+
   
   
   
