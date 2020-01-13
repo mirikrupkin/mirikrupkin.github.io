@@ -40,7 +40,7 @@ Research experience
 
 **2009 - 2011**     M.Sc., laboratory of Prof. Ada Yonath, 
                     Weizmann Institute of Science.
-                    Thesis: Towards the Determination of the Structure of Mycobacterium smegmatis Ribosome.
+                    Thesis: Towards the Determination of the Structure of *Mycobacterium smegmatis* Ribosome.
 
 **2008 - 2009**     Rotations at Weizmann Institute of Science:
                     - Ribosome structure and function, laboratory of Prof. Ada Yonath. 
