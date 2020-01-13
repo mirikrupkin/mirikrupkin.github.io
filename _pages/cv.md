@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-**2017 - present**  Postdoctoral associate, Massachusetts Institute of Technology.
+**2019 - present**  Postdoctoral research fellow, Stanford University.
+
+**2017 - 2019**     Postdoctoral associate, Massachusetts Institute of Technology.
 
 **2011 - 2016**     Ph.D. in Structural Biology, Weizmann Institute of Science.
 
@@ -24,7 +26,11 @@ Education
 
 Research experience
 ======
-**2017 - present**  Postdoc, laboratory of Prof. Katharina Ribbeck,    
+**2019 - present**  Postdoc, laboratory of Joseph Puglisi and Elisabetta Viani Puglisi,    
+                    Stanford University.
+                    Research focus: Architecture of HIV viral RNA. 
+                    
+**2017 - 2019**     Postdoc, laboratory of Prof. Katharina Ribbeck,    
                     Massachusetts Institute of Technology. 
                     Research focus: Mucus in health and disease. 
 
@@ -137,9 +143,9 @@ Other Activities
 ======
 **2019** Organizer of the [4th Annual MIT-Harvard Microbiome Symposium](https://microbiome2019.wordpress.com), Boston. 
 
-**2018- present** Organizer of “GlycoBioClub”- the MIT Glycobiology journal club, MIT.  
+**2018- 2019** Organizer of “GlycoBioClub”- the MIT Glycobiology journal club, MIT.  
 
-**2017- present** Science outreach at the Boston Science Museum, Boston.  
+**2017- 2019** Science outreach at the Boston Science Museum, Boston.  
 
 **2015** Organizer of the [Frontiers in Chemical Sciences Symposium](http://www.weizmann.ac.il/chemistry/sites/chemistry/files/17323poster16508_13.pdf), Israel.
 
