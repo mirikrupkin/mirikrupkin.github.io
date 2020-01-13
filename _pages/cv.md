@@ -43,9 +43,9 @@ Research experience
                     Thesis: Towards the Determination of the Structure of *Mycobacterium smegmatis* Ribosome.
 
 **2008 - 2009**     Rotations at Weizmann Institute of Science:
-                    - Ribosome structure and function, laboratory of Prof. Ada Yonath. 
-                    - Organized lipid domains, laboratory of Prof. Lia Addadi.
-                    - Nano and bio composite materials, laboratory of Prof. Daniel Wagner.
+- Ribosome structure and function, laboratory of Prof. Ada Yonath. 
+- Organized lipid domains, laboratory of Prof. Lia Addadi.
+- Nano and bio composite materials, laboratory of Prof. Daniel Wagner.
 
 **2007 - 2008**     Undergraduate research at Bar Ilan University:
                     Conducting polymers, laboratory of Dr. Joseph Frey, Bar-Ilan.
