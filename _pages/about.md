@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have allways been fascinated by the beauty of nature and curious to learn more about it. I was hypnotized by the structures of macromolecules during my grad studies, and became eager to understand more about the chemistry of life. My passion is to reveal the chemical and biological basis of infectious diseases, and expand our understanding of human health. 
+I have always been fascinated by the beauty of nature and curious to learn more about it. I was hypnotized by the structures of macromolecules during my grad studies, and became eager to understand more about the chemistry of life. My passion is to reveal the molecular basis of infectious diseases, and expand our understanding of human health. 
 
 Background
 ======
