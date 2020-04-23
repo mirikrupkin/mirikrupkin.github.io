@@ -153,4 +153,6 @@ Other Activities
 
 **2010** BCA/CCP4 Summer School in Protein Crystallography at Oxford, UK.
 
+**2009 - 2017** Synchrotron user. Locations: ESRF, France. SLS, Switzerland. Diamond, UK.
+
 **2009 - 2016** Instructor in various science education and outreach programs of the Davidson Institute of Science Education, Israel.
