@@ -20,6 +20,8 @@ I am currently a postdoc in [the Puglisi lab](https://med.stanford.edu/profiles/
 
 ![](/images/avilamycin.png) 
 
+![](/images/avilamycin-wide.png) 
+
 Other Interests
 ======
 I am devoted to promoting science education and outreach. 
