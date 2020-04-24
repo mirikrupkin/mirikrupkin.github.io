@@ -19,7 +19,8 @@ Ben-Gurion University, Israel.
 
 **2015**
 
-- **Oral presentation**: The origin of the ribosome: A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome. Genetics, Genomics and Evolution conference, Tel-Aviv University, Israel. **Best Talk Award**
+- **Oral presentation**: The origin of the ribosome: A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome. Genetics, Genomics and Evolution conference, Tel-Aviv University, Israel. 
+**Best Talk Award**.
 
 **2014**
 
@@ -48,4 +49,6 @@ Panels
 **2013**
 
 - **Panel organizer and speaker**: Choosing a rotation lab, Weizmann Institute of Science.
+
+![](/images/panels.png) 
   
