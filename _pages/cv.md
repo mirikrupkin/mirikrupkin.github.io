@@ -59,7 +59,7 @@ Matzov D, Eyal Z, Benhamou RI, Shalev-Benami M, Halfon Y, **Krupkin M**, Zimmerm
 
 Wekselman I, Zimmerman E, Davidovich C, Belousoff M, Matzov D, **Krupkin M**, Rozenberg H, Bashan A, Friedlander G, Kjeldgaard J, Ingmer H, Lindahl L, Zengel JM, Yonath A. “The Ribosomal Protein uL22 Modulates the Shape of the Protein Exit Tunnel”. Structure. 2017 Aug 1;25(8):1233-1241.e3. Epub 2017 Jul 6.
 
-**Krupkin M'**, Wekselman I', Matzov D, Eyal Z, Diskin Posner Y, Rozenberg H, Zimmerman E, Bashan A, Yonath A. “Avilamycin and evernimicin induce structural changes in rProteins uL16 and CTC that enhance the inhibition of A-site tRNA binding”. Proc Natl Acad Sci U S A. 2016 Nov 1;113(44):E6796-E6805.
+**Krupkin M'**, Wekselman I', Matzov D, Eyal Z, Diskin Posner Y, Rozenberg H, Zimmerman E, Bashan A, Yonath A. [“Avilamycin and evernimicin induce structural changes in rProteins uL16 and CTC that enhance the inhibition of A-site tRNA binding”](https://www.pnas.org/content/113/44/E6796). Proc Natl Acad Sci U S A. 2016 Nov 1;113(44):E6796-E6805.
 
 Eyal Z*, Matzov D*, **Krupkin M**, Paukner S, Riedl R, Rozenberg H, Zimmerman E, Bashan A, and Yonath A. “A novel pleuromutilin antibacterial compound, its binding mode and selectivity mechanism”. Sci Rep. 2016 Dec 13;6:39004.
 
@@ -73,7 +73,7 @@ Sun L, Xiong Y, Bashan A, Zimmerman E, Shulman Daube S, Peleg Y, Albeck S, Unger
 
 Huang L, **Krupkin M**, Bashan A, Yonath A, Massa L. “Protoribosome by quantum kernel energy method”. Proc Natl Acad Sci U S A. 2013 Sep 10;110(37):14900-5.
 
-**Krupkin M**, Matzov D, Tang H, Metz M, Kalaora R, Belousoff MJ, Zimmerman E, Bashan A, Yonath A. A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome. Philos Trans R Soc Lond B Biol Sci. 2011 Oct 27;366(1580):2972-8.
+**Krupkin M**, Matzov D, Tang H, Metz M, Kalaora R, Belousoff MJ, Zimmerman E, Bashan A, Yonath A. [A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3158926/). Philos Trans R Soc Lond B Biol Sci. 2011 Oct 27;366(1580):2972-8.
 
 Bashan A, Zimmerman E, Belousoff MJ, Rozenberg H, Davidovich C, Wekselman I, Shapira T, **Krupkin M**, Yonath A.  “The ribosome as drug target: lessons from 3D structures”. Isr Chem Soc. 2010, 25, 10-18.
 
@@ -141,7 +141,14 @@ Awards and Fellowships
   
 Other Activities
 ======
+
+**2020** “Conference on Retroviruses and Opportunistic Infection- CROI 2020“, Boston, USA. 
+
+**2019**	“17th Course: Frontiers of Biophysics”, Erice, Italy. 	
+
 **2019** Organizer of the [4th Annual MIT-Harvard Microbiome Symposium](https://microbiome2019.wordpress.com), Boston. 
+
+**2018** Mentor at the [MRL summer internship program](https://mrl.mit.edu/index.php/about-mrl/industry-collegium/157-at-the-forefront-of-new-technology), MIT. 
 
 **2018- 2019** Organizer of “GlycoBioClub”- the MIT Glycobiology journal club, MIT.  
 
@@ -156,3 +163,4 @@ Other Activities
 **2009 - 2017** Synchrotron user. Locations: ESRF, France. SLS, Switzerland. Diamond, UK.
 
 **2009 - 2016** Instructor in various science education and outreach programs of the Davidson Institute of Science Education, Israel.
+
