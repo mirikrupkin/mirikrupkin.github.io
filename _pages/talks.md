@@ -8,25 +8,18 @@ author_profile: true
 **2019** 
 
 - **Guest seminar**: Layers of Protection: from molecular mechanisms to organism defense. School of medicine, Stanford. 
-
 - **Seminar**: [Avilamycin Induces Structural Changes In Ribosomal Proteins uL16 And CTC That Enhance The Inhibition Of A-Site tRNA Binding](https://semc.nysbc.org/avilamycin-induces-structural-changes-in-ribosomal-proteins-ul16-and-ctc-that-enhance-the-inhibition-of-a-site-trna-binding). Simons elctron microscopy center, New York Structural Biology Center.
-
 - **Guest seminar**: Layers of Protection: from molecular mechanisms to organism defense. Biochemistry and Biophysics department, UCSF. 
-
 - **Guest seminar**: Layers of Protection: from molecular mechanisms to organism defense. Chemistry department, University of Utah. 
 
 
 **2016**
 
 - **Guest seminar**: Origin of The Ribosome and its Paralyzation by Antibiotics. Biological engineering department, MIT.
-
 - **Oral presentation**: The origin of the ribosome: A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome. Israel Society for Astrobiology and the Origin of Life (ILASOL), 29th annual meeting,
 Ben-Gurion University, Israel.
-
 - **Oral presentation**: Avilamycin induces structural changes in rProteins uL16 and CTC that enhance the inhibition of A-site tRNA binding. 8th Graduate Students Chemistry Symposium, Ben-Gurion University, Israel.
-
 - **Oral presentation**: The structure of avilamycin bound to the large ribosomal subunit. Israel Crystallography Association Meeting ICA2016, Tel-Aviv University, Israel. 
-
 - **Poster presentation**: The structure of avilamycin bound to the large ribosomal subunit. Ribosome Structure and Function EMBO conference, Strasbourg, France.
 
 **2015**
@@ -53,7 +46,7 @@ Conferences
 
 **2019** 
 
-- **Organizer** [4th Annual MIT-Harvard Microbiome Symposium](https://microbiome2019.wordpress.com), MIT and Harvard, Boston. 
+- **Organizer**: [4th Annual MIT-Harvard Microbiome Symposium](https://microbiome2019.wordpress.com), MIT and Harvard. 
 
 **2015** 
 
