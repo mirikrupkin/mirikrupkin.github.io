@@ -35,4 +35,17 @@ Ben-Gurion University, Israel.
 
 - **Oral presentation**: “A vestige of a prebiotic bonding entity is functioning within the contemporary ribosome”. Israel Society for Astrobiology and the Origin of Life (ILASOL), 26th annual meeting, Weizmann Institute of Science, Israel.
 
+Panels
+=======
+**2018**
+
+- **Speaker**: Finding a postdoc, Massachusetts Institute of Technology.
+
+**2015**
+
+- **Panel leader**: Gender Balance in Chemical Sciences, Frontiers in Chemical Sciences International Symposium, Weizmann Institute of Science.
+
+**2013**
+
+- **Panel organizer and speaker**: Choosing a rotation lab, Weizmann Institute of Science.
   
