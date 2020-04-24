@@ -18,8 +18,6 @@ I completed my PhD under the mentorship of [Professor Ada Yonath](http://www.wei
 
 I am currently a postdoc in [the Puglisi lab](https://med.stanford.edu/profiles/miri-krupkin), at Stanford University, where I study the regulatory role of RNA structures in HIV infection. 
 
-![](/images/avilamycin.png) 
-
 ![](/images/avilamycin-wide.png) 
 
 Other Interests
