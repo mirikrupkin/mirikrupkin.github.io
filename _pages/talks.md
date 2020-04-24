@@ -5,8 +5,17 @@ permalink: /talks/
 author_profile: true
 ---
 
+**2019** 
+
+- **Seminar**: Avilamycin Induces Structural Changes In Ribosomal Proteins uL16 And CTC That Enhance The Inhibition Of A-Site tRNA Binding. [Simons elctron microscopy center](https://semc.nysbc.org/avilamycin-induces-structural-changes-in-ribosomal-proteins-ul16-and-ctc-that-enhance-the-inhibition-of-a-site-trna-binding), New York Structural Biology Center./
+- **Seminar**: Layers of Protection: from molecular mechanisms to organism defense. Chemistry department, University of Utah. 
+- **Seminar**: Layers of Protection: from molecular mechanisms to organism defense. School of medicine, Stanford. 
+- **Seminar**: Layers of Protection: from molecular mechanisms to organism defense. Biochemistry and Biophysics department, UCSF. 
+
 
 **2016**
+
+- **Seminar**: Origin of The Ribosome and its Paralyzation by Antibiotics. Biological engineering department, MIT.
 
 - **Oral presentation**: The origin of the ribosome: A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome. Israel Society for Astrobiology and the Origin of Life (ILASOL), 29th annual meeting,
 Ben-Gurion University, Israel.
@@ -65,7 +74,3 @@ Panels
 - **Panel organizer and speaker**: How to choose a rotation lab, Weizmann Institute of Science.
 
 ![](/images/panels.png) 
-
-
-
-  
