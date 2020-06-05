@@ -164,13 +164,19 @@ Other Activities
 
 **2018** MIT Path of Professorship, MIT, USA.
 
+**2018** Panel speaker: [Finding a postdoc](https://calendar.mit.edu/event/finding_a_postdoc#.XqJaci-ZPBI), MIT.
+
 **2018- 2019** Organizer of “GlycoBioClub”- the MIT Glycobiology journal club, MIT.  
 
 **2017- 2019** Science outreach at the Boston Science Museum, Boston.  
 
 **2015** Organizer of the [Frontiers in Chemical Sciences Symposium](http://www.weizmann.ac.il/chemistry/sites/chemistry/files/17323poster16508_13.pdf), Israel.
 
+**2015** Panel leader: Gender Balance in Chemical Sciences, [Frontiers in Chemical Sciences Symposium](http://www.weizmann.ac.il/chemistry/sites/chemistry/files/17323poster16508_13.pdf), Weizmann Institute of Science.
+
 **2013** Chair of Weizmann Institute Student Council.
+
+**2013** Panel organizer and speaker: How to choose a rotation lab, Weizmann Institute of Science.
 
 **2010** BCA/CCP4 Summer School in Protein Crystallography, Oxford, UK.
 
