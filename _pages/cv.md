@@ -50,10 +50,6 @@ Research experience
 **2007 - 2008**     Undergraduate research at Bar Ilan University:
                     Conducting polymers, laboratory of Joseph Frey.
                     
-**2004 - 2005**     Undergraduate research at Weizmann Institute of Science: 
-                    Nanocrystals in amorphous glass, Materials and Structural Analysis lab, Dr. Yishay Feldman.
-
-
 
 
 Publications
