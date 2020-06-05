@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV](http://academicpages.github.io/files/Krupkin_CV-2020.pdf)
+
 Education
 ======
 **2019 - present**  Postdoctoral research fellow, Stanford University.
