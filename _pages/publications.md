@@ -10,7 +10,7 @@ author_profile: true
   
   * Wekselman I, Zimmerman E, Davidovich C, Belousoff M, Matzov D, **Krupkin M**, Rozenberg H, Bashan A, Friedlander G, Kjeldgaard J, Ingmer H, Lindahl L, Zengel JM, Yonath A. “The Ribosomal Protein uL22 Modulates the Shape of the Protein Exit Tunnel”. Structure. 2017 Aug 1;25(8):1233-1241.e3. Epub 2017 Jul 6.
 
-  **Krupkin M***, Wekselman I*, Matzov D, Eyal Z, Diskin Posner Y, Rozenberg H, Zimmerman E, Bashan A, Yonath A. “Avilamycin and evernimicin induce structural changes in rProteins uL16 and CTC that enhance the inhibition of A-site tRNA binding”. Proc Natl Acad Sci U S A. 2016 Nov 1;113(44):E6796-E6805. [link](https://www.pnas.org/content/113/44/E6796)
+  * **Krupkin M***, Wekselman I*, Matzov D, Eyal Z, Diskin Posner Y, Rozenberg H, Zimmerman E, Bashan A, Yonath A. “Avilamycin and evernimicin induce structural changes in rProteins uL16 and CTC that enhance the inhibition of A-site tRNA binding”. Proc Natl Acad Sci U S A. 2016 Nov 1;113(44):E6796-E6805. [link](https://www.pnas.org/content/113/44/E6796)
   
   * Eyal Z*, Matzov D*, **Krupkin M**, Paukner S, Riedl R, Rozenberg H, Zimmerman E, Bashan A, and Yonath A. “A novel pleuromutilin antibacterial compound, its binding mode and selectivity mechanism”. Sci Rep. 2016 Dec 13;6:39004.
   
@@ -25,7 +25,7 @@ author_profile: true
   * Huang L, **Krupkin M**, Bashan A, Yonath A, Massa L. “Protoribosome by quantum kernel energy method”. Proc Natl Acad Sci U S A. 2013 Sep 10;110(37):14900-5. [link](https://www.pnas.org/content/110/37/14900)
 
   * **Krupkin M**, Matzov D, Tang H, Metz M, Kalaora R, Belousoff MJ, Zimmerman E, Bashan A, Yonath A. A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome. Philos Trans R Soc Lond B Biol Sci. 2011 Oct 27;366(1580):2972-8. [link](https://royalsocietypublishing.org/doi/10.1098/rstb.2011.0146)
-    * Research highlight, “The chemical origins of life and its early evolution: an introduction”, Phil. Trans. R. Soc. B3662853–2856 (2011). 
+     Research highlight, “The chemical origins of life and its early evolution: an introduction”, Phil. Trans. R. Soc. B3662853–2856 (2011). 
 
   * Bashan A, Zimmerman E, Belousoff MJ, Rozenberg H, Davidovich C, Wekselman I, Shapira T, **Krupkin M**, Yonath A.  “The ribosome as drug target: lessons from 3D structures”. Isr Chem Soc. 2010, 25, 10-18.
   
