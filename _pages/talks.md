@@ -16,30 +16,42 @@ author_profile: true
 **2016**
 
 - **Guest seminar**: Origin of The Ribosome and its Paralyzation by Antibiotics. Biological engineering department, MIT.
-- **Oral presentation**: The origin of the ribosome: A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome. Israel Society for Astrobiology and the Origin of Life (ILASOL), 29th annual meeting,
+- **Talk**: The origin of the ribosome: A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome. Israel Society for Astrobiology and the Origin of Life (ILASOL), 29th annual meeting,
 Ben-Gurion University, Israel.
-- **Oral presentation**: Avilamycin induces structural changes in rProteins uL16 and CTC that enhance the inhibition of A-site tRNA binding. 8th Graduate Students Chemistry Symposium, Ben-Gurion University, Israel.
-- **Oral presentation**: The structure of avilamycin bound to the large ribosomal subunit. Israel Crystallography Association Meeting ICA2016, Tel-Aviv University, Israel. 
-- **Poster presentation**: The structure of avilamycin bound to the large ribosomal subunit. Ribosome Structure and Function EMBO conference, Strasbourg, France.
+- **Talk**: Avilamycin induces structural changes in rProteins uL16 and CTC that enhance the inhibition of A-site tRNA binding. 8th Graduate Students Chemistry Symposium, Ben-Gurion University, Israel.
+- **Talk**: The structure of avilamycin bound to the large ribosomal subunit. Israel Crystallography Association Meeting ICA2016, Tel-Aviv University, Israel. 
+- **Poster**: The structure of avilamycin bound to the large ribosomal subunit. Ribosome Structure and Function EMBO conference, Strasbourg, France.
 
 **2015**
 
-- **Oral presentation**: The origin of the ribosome: A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome. Genetics, Genomics and Evolution conference, Tel-Aviv University, Israel. 
+- **Talk**: The origin of the ribosome: A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome. Genetics, Genomics and Evolution conference, Tel-Aviv University, Israel. 
 **Best Talk Award**.
 
 **2014**
 
-- **Poster presentation**: The origin of the ribosome: A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome. The Society for Molecular Biology and Evolution SMBE2014 meeting, San Juan, Puerto Rico.
-- **Poster presentation**: The origin of the ribosome: A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome.The RNA society 19th annual meeting, Quebec, Canada. 
-- **Poster presentation**:  The origin of the ribosome: A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome. Structure and dynamics of RNA interactions - 4th Annual Summer Symposium, Montreal, Canada.
+- **Poster**: The origin of the ribosome: A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome. The Society for Molecular Biology and Evolution SMBE2014 meeting, San Juan, Puerto Rico.
+- **Poster**: The origin of the ribosome: A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome.The RNA society 19th annual meeting, Quebec, Canada. 
+- **Poster**:  The origin of the ribosome: A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome. Structure and dynamics of RNA interactions - 4th Annual Summer Symposium, Montreal, Canada.
 
 **2013**
 
-- **Oral presentation**: The Ribosome’s Origin – The Proto Ribosome. RNA Bioinformatics Structure Function and Regulation workshop, Technion, Israel.
+- **Talk**: The Ribosome’s Origin – The Proto Ribosome. RNA Bioinformatics Structure Function and Regulation workshop, Technion, Israel.
+- **Guest seminar**: The Ribosome’s Origin – The Proto Ribosome. School of medicine, Stanford, USA. 
+- **Poster**: The Ribosome’s Origin – The Proto Ribosome. Ribosomes, Napa, USA. 
 
 **2012**
 
-- **Oral presentation**: “A vestige of a prebiotic bonding entity is functioning within the contemporary ribosome”. Israel Society for Astrobiology and the Origin of Life (ILASOL), 26th annual meeting, Weizmann Institute of Science, Israel.
+- **Talk**: “A vestige of a prebiotic bonding entity is functioning within the contemporary ribosome”. Israel Society for Astrobiology and the Origin of Life (ILASOL) annual meeting, Weizmann Institute of Science, Israel.
+
+**2011**
+
+- **Poster**: "Mycobacterium Smegmatis Ribosome as A Tool for A Structural Insight into Antibiotics Action on Pathogens". ILANIT, Federation of the Israel Societies for Experimental Biology, Eilat, Israel.
+- **Seminar**: "Towards the Determination of the Structure of Mycobacterium smegmatis Ribosome". Structural Biology Department, Weizmann Institute of Science, Israel. 
+
+**2010**
+
+- **Talk**: "Towards the Determination of the Structure of Mycobacterium smegmatis Ribosome”.BCA/CCP4 Summer School in Protein Crystallography, Oxford, UK
+
 
 Conferences
 =======
