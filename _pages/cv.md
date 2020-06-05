@@ -172,7 +172,7 @@ Other Activities
 
 **2015** Organizer of the [Frontiers in Chemical Sciences Symposium](http://www.weizmann.ac.il/chemistry/sites/chemistry/files/17323poster16508_13.pdf), Israel.
 
-**2015** Panel leader: Gender Balance in Chemical Sciences, [Frontiers in Chemical Sciences Symposium](http://www.weizmann.ac.il/chemistry/sites/chemistry/files/17323poster16508_13.pdf), Weizmann Institute of Science.
+**2015** Panel leader: Gender Balance in Chemical Sciences, Frontiers in Chemical Sciences Symposium, Weizmann Institute of Science.
 
 **2013** Chair of Weizmann Institute Student Council.
 
