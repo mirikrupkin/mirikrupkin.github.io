@@ -29,7 +29,7 @@ author_profile: true
 
 
 > 
-  * **Krupkin M**, Bashan A, Yonath A. (2014) “Glimpse into the Origin of Life: What was First, the Genetic Code or its Products, the Proteins?” in “Why does Evolution Matter? The Importance of Understanding Evolution”, G. Trueba, ed. (Cambridge Scholars Publishing), p. 87-100. [link](https://www.cambridgescholars.com/why-does-evolution-matter-the-importance-of-understanding-evolution) 
+  * **Krupkin M**, Bashan A, Yonath A. (2014) “Glimpse into the Origin of Life: What was First, the Genetic Code or its Products, the Proteins?” [link to chapter 6](https://books.google.com/books?id=f-OmBgAAQBAJ&pg=PA87&lpg=PA87&dq=Glimpse+into+the+Origin+of+Life:+What+was+First,+the+Genetic+Code+or+its+Products,+the+Proteins&source=bl&ots=OfDCcxfFms&sig=ACfU3U1jf3a2PyFrnEm_H8k-J_vAotgYvg&hl=en&sa=X&ved=2ahUKEwjwgOjcz_XpAhXTIjQIHcnGBGkQ6AEwAXoECAkQAQ#v=onepage&q=Glimpse%20into%20the%20Origin%20of%20Life%3A%20What%20was%20First%2C%20the%20Genetic%20Code%20or%20its%20Products%2C%20the%20Proteins&f=false) in “Why does Evolution Matter? The Importance of Understanding Evolution”, G. Trueba, ed. (Cambridge Scholars Publishing), p. 87-100. [link to book](https://www.cambridgescholars.com/why-does-evolution-matter-the-importance-of-understanding-evolution) 
   ![](/images/2014-books.jpeg)
 
  
