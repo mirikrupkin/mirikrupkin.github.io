@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 
+[Miri Krupkin at pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=miri+krupkin").
+
   * Matzov D, Eyal Z, Benhamou RI, Shalev-Benami M, Halfon Y, **Krupkin M**, Zimmerman E, Rozenberg H, Bashan A, Fridman M, Yonath A. “Structural insights of lincosamides targeting the ribosome of Staphylococcus aureus”. Nucleic Acids Res. 2017 Sep 29;45(17):10284-10292.
   
   * Wekselman I, Zimmerman E, Davidovich C, Belousoff M, Matzov D, **Krupkin M**, Rozenberg H, Bashan A, Friedlander G, Kjeldgaard J, Ingmer H, Lindahl L, Zengel JM, Yonath A. “The Ribosomal Protein uL22 Modulates the Shape of the Protein Exit Tunnel”. Structure. 2017 Aug 1;25(8):1233-1241.e3. Epub 2017 Jul 6.
@@ -32,7 +34,9 @@ author_profile: true
 
   * Bashan A, Zimmerman E, Belousoff MJ, Rozenberg H, Davidovich C, Wekselman I, Shapira T, **Krupkin M**, Yonath A.  “The ribosome as drug target: lessons from 3D structures”. Isr Chem Soc. 2010, 25, 10-18.
   
-  * Davidovich C, Belousoff M, Wekselman I, Shapira T, **Krupkin M**, Zimmerman E, Bashan A, Yonath A. “The proto-ribosome : An ancient nano-machine for peptide bond formation". Isr J Chem. 2010 Jun 18;50(1):29-35.
+  * Davidovich C, Belousoff M, Wekselman I, Shapira T, **Krupkin M**, Zimmerman E, Bashan A, Yonath A. [“The proto-ribosome : An ancient nano-machine for peptide bond formation"](https://onlinelibrary.wiley.com/doi/full/10.1002/ijch.201000012). Isr J Chem. 2010 Jun 18;50(1):29-35.
+  
+     - Journal Cover.  
 
 Equal contribution'
 
