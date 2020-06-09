@@ -19,12 +19,15 @@ author_profile: true
   * Eyal Z', Matzov D', **Krupkin M**, Wekselman I, Paukner S, Zimmerman E, Rozenberg H, Bashan A, Yonath A. “Structural insights into species-specific features of the ribosome from the pathogen staphylococcus aureus”. Proc Natl Acad Sci U S A. 2015 Oct 27;112(43):E5805-14. 
   
   * Sun L, Xiong Y, Bashan A, Zimmerman E, Shulman Daube S, Peleg Y, Albeck S, Unger T, Yonath H, **Krupkin M**, Matzov D, Yonath A. “A recombinant collagen–mRNA platform for controllable protein synthesis”. Chembiochem. 2015 Jul 6;16(10):1415-9.
+  
+  Journal cover.  
 
   * **Krupkin M**, Bashan A, Yonath A. (2014) “Glimpse into the Origin of Life: What was First, the Genetic Code or its Products, the Proteins?” in “Why does Evolution Matter? The Importance of Understanding Evolution”, G. Trueba, ed. (Cambridge Scholars Publishing), p. 87-100. 
 
   * Huang L, **Krupkin M**, Bashan A, Yonath A, Massa L. “Protoribosome by quantum kernel energy method”. Proc Natl Acad Sci U S A. 2013 Sep 10;110(37):14900-5. [link](https://www.pnas.org/content/110/37/14900)
 
   * **Krupkin M**, Matzov D, Tang H, Metz M, Kalaora R, Belousoff MJ, Zimmerman E, Bashan A, Yonath A. A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome. Philos Trans R Soc Lond B Biol Sci. 2011 Oct 27;366(1580):2972-8. [link](https://royalsocietypublishing.org/doi/10.1098/rstb.2011.0146)
+     
      Research highlight, “The chemical origins of life and its early evolution: an introduction”, Phil. Trans. R. Soc. B3662853–2856 (2011). 
 
   * Bashan A, Zimmerman E, Belousoff MJ, Rozenberg H, Davidovich C, Wekselman I, Shapira T, **Krupkin M**, Yonath A.  “The ribosome as drug target: lessons from 3D structures”. Isr Chem Soc. 2010, 25, 10-18.
