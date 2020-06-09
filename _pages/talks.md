@@ -19,7 +19,7 @@ author_profile: true
 - **Talk**: The origin of the ribosome: A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome. Israel Society for Astrobiology and the Origin of Life (ILASOL), 29th annual meeting,
 Ben-Gurion University, Israel.
 - **Talk**: Avilamycin induces structural changes in rProteins uL16 and CTC that enhance the inhibition of A-site tRNA binding. 8th Graduate Students Chemistry Symposium, Ben-Gurion University, Israel.
-- **Talk**: The structure of avilamycin bound to the large ribosomal subunit. Israel Crystallography Association Meeting ICA2016, Tel-Aviv University, Israel. 
+- **Talk**: [The structure of avilamycin bound to the large ribosomal subunit](https://www.praglab.org/ica2016). Israel Crystallography Association Meeting ICA2016, Tel-Aviv University, Israel. 
 - **Poster**: The structure of avilamycin bound to the large ribosomal subunit. Ribosome Structure and Function EMBO conference, Strasbourg, France.
 
 **2015**
