@@ -22,7 +22,7 @@ author_profile: true
   
   * Sun L, Xiong Y, Bashan A, Zimmerman E, Shulman Daube S, Peleg Y, Albeck S, Unger T, Yonath H, **Krupkin M**, Matzov D, Yonath A. “A recombinant collagen–mRNA platform for controllable protein synthesis”. Chembiochem. 2015 Jul 6;16(10):1415-9. [](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201500205)
   
-    - Journal cover.  
+    - Journal cover. ![](/images/2015-sun.png) 
 
   * **Krupkin M**, Bashan A, Yonath A. (2014) “Glimpse into the Origin of Life: What was First, the Genetic Code or its Products, the Proteins?” in “Why does Evolution Matter? The Importance of Understanding Evolution”, G. Trueba, ed. (Cambridge Scholars Publishing), p. 87-100. [link](https://books.google.com/books?id=f-OmBgAAQBAJ&pg=PA87&lpg=PA87&dq=Glimpse+into+the+Origin+of+Life:+What+was+First,+the+Genetic+Code+or+its+Products,+the+Proteins&source=bl&ots=OfDCcxfFms&sig=ACfU3U1jf3a2PyFrnEm_H8k-J_vAotgYvg&hl=en&sa=X&ved=2ahUKEwjwgOjcz_XpAhXTIjQIHcnGBGkQ6AEwAXoECAkQAQ#v=onepage&q=Glimpse%20into%20the%20Origin%20of%20Life%3A%20What%20was%20First%2C%20the%20Genetic%20Code%20or%20its%20Products%2C%20the%20Proteins&f=false)
 
@@ -34,11 +34,11 @@ author_profile: true
 
   * Bashan A, Zimmerman E, Belousoff MJ, Rozenberg H, Davidovich C, Wekselman I, Shapira T, **Krupkin M**, Yonath A.  “The ribosome as drug target: lessons from 3D structures”. Isr Chem Soc. 2010, 25, 10-18. [link](https://www.weizmann.ac.il/sb/faculty_pages/Yonath/Bashan-2010ICS.pdf)
   
-    - Journal cover.
+    - Journal cover. ![](/images/2010-drugs.png) 
   
   * Davidovich C, Belousoff M, Wekselman I, Shapira T, **Krupkin M**, Zimmerman E, Bashan A, Yonath A. “The proto-ribosome : An ancient nano-machine for peptide bond formation". Isr J Chem. 2010 Jun 18;50(1):29-35. [link](https://onlinelibrary.wiley.com/doi/full/10.1002/ijch.201000012)
   
-     - Journal Cover.  
+     - Journal Cover. ![](/images/2010-protoribosome.jpg) 
 
 Equal contribution'
 
