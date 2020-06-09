@@ -155,6 +155,8 @@ Awards and Fellowships
 Other Activities
 ======
 
+**2020- current** Reviewer Board for the international peer-reviewed journal [Antibiotics](https://www.mdpi.com/journal/antibiotics/submission_reviewers).
+
 **2020** “Conference on Retroviruses and Opportunistic Infection- CROI 2020“, Boston, USA. 
 
 **2019**	“17th Course: Frontiers of Biophysics”, Erice, Italy. 	
