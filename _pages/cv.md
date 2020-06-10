@@ -163,6 +163,8 @@ Other Activities
 
 **2019** Organizer of the [4th Annual MIT-Harvard Microbiome Symposium](https://microbiome2019.wordpress.com), Boston. 
 
+**2019** Club leadership at the [microbiome club](https://microbiome.mit.edu/for-students/microbiome-club/), MIT.
+
 **2018** Mentor at the [MRL summer internship program](https://mrl.mit.edu/index.php/about-mrl/industry-collegium/157-at-the-forefront-of-new-technology), MIT. 
 
 **2018** MIT Path of Professorship, MIT, USA.
