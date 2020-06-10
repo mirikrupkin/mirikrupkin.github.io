@@ -8,7 +8,7 @@ author_profile: true
 **2019** 
 
 - **Guest seminar**: Layers of Protection: from molecular mechanisms to organism defense. School of medicine, Stanford. 
-- **Seminar**: Avilamycin Induces Structural Changes In Ribosomal Proteins uL16 And CTC That Enhance The Inhibition Of A-Site tRNA Binding. Simons electron microscopy center, New York Structural Biology Center. [link] (https://semc.nysbc.org/avilamycin-induces-structural-changes-in-ribosomal-proteins-ul16-and-ctc-that-enhance-the-inhibition-of-a-site-trna-binding)
+- **Seminar**: Avilamycin Induces Structural Changes In Ribosomal Proteins uL16 And CTC That Enhance The Inhibition Of A-Site tRNA Binding. Simons electron microscopy center, New York Structural Biology Center. [link](https://semc.nysbc.org/avilamycin-induces-structural-changes-in-ribosomal-proteins-ul16-and-ctc-that-enhance-the-inhibition-of-a-site-trna-binding)
 - **Guest seminar**: Layers of Protection: from molecular mechanisms to organism defense. Biochemistry and Biophysics department, UCSF. 
 - **Guest seminar**: Layers of Protection: from molecular mechanisms to organism defense. Chemistry department, University of Utah. 
 
