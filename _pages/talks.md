@@ -8,7 +8,7 @@ author_profile: true
 **2019** 
 
 - **Guest seminar**: Layers of Protection: from molecular mechanisms to organism defense. School of medicine, Stanford. 
-- **Seminar**: [Avilamycin Induces Structural Changes In Ribosomal Proteins uL16 And CTC That Enhance The Inhibition Of A-Site tRNA Binding](https://semc.nysbc.org/avilamycin-induces-structural-changes-in-ribosomal-proteins-ul16-and-ctc-that-enhance-the-inhibition-of-a-site-trna-binding). Simons electron microscopy center, New York Structural Biology Center.
+- **Seminar**: Avilamycin Induces Structural Changes In Ribosomal Proteins uL16 And CTC That Enhance The Inhibition Of A-Site tRNA Binding. Simons electron microscopy center, New York Structural Biology Center. [link] (https://semc.nysbc.org/avilamycin-induces-structural-changes-in-ribosomal-proteins-ul16-and-ctc-that-enhance-the-inhibition-of-a-site-trna-binding)
 - **Guest seminar**: Layers of Protection: from molecular mechanisms to organism defense. Biochemistry and Biophysics department, UCSF. 
 - **Guest seminar**: Layers of Protection: from molecular mechanisms to organism defense. Chemistry department, University of Utah. 
 
@@ -16,10 +16,9 @@ author_profile: true
 **2016**
 
 - **Guest seminar**: Origin of The Ribosome and its Paralyzation by Antibiotics. Biological engineering department, MIT.
-- **Talk**: The origin of the ribosome: A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome. Israel Society for Astrobiology and the Origin of Life (ILASOL), 29th annual meeting,
-Ben-Gurion University, Israel.
-- **Talk**: Avilamycin induces structural changes in rProteins uL16 and CTC that enhance the inhibition of A-site tRNA binding. 8th Graduate Students Chemistry Symposium, Ben-Gurion University, Israel.
-- **Talk**: [The structure of avilamycin bound to the large ribosomal subunit](https://www.praglab.org/ica2016). Israel Crystallography Association Meeting ICA2016, Tel-Aviv University, Israel. 
+- **Talk**: The origin of the ribosome: A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome. Israel Society for Astrobiology and the Origin of Life (ILASOL), 29th annual meeting,Ben-Gurion University, Israel. [link](https://in.bgu.ac.il/teva/chem/Documents/ILASOL29Program.pdf)
+- **Talk**: Avilamycin induces structural changes in rProteins uL16 and CTC that enhance the inhibition of A-site tRNA binding. 8th Graduate Students Chemistry Symposium, Ben-Gurion University, Israel. [link](https://pjdcommunica.files.wordpress.com/2017/11/abstract-booklet.pdf)
+- **Talk**: The structure of avilamycin bound to the large ribosomal subunit. Israel Crystallography Association Meeting ICA2016, Tel-Aviv University, Israel. [link](https://www.praglab.org/ica2016)
 - **Poster**: The structure of avilamycin bound to the large ribosomal subunit. Ribosome Structure and Function EMBO conference, Strasbourg, France.
 
 **2015**
