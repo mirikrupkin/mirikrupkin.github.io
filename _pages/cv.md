@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+<i>[Download CV](https://mirikrupkin.github.io/files/Krupkin_CV-2020.pdf)</i>.
 
 Education
 ======
