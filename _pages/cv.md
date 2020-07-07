@@ -11,10 +11,6 @@ redirect_from:
 
 Education
 ======
-**2019 - present**  Postdoctoral research fellow, Stanford University.
-
-**2017 - 2019**     Postdoctoral associate, Massachusetts Institute of Technology.
-
 **2011 - 2016**     Ph.D. in Structural Biology, Weizmann Institute of Science.
 
 **2008 - 2011**     M.Sc. in Structural Biology, Weizmann Institute of Science.
@@ -26,9 +22,10 @@ Education
 
 Research experience
 ======
-**2019 - present**  Postdoc, laboratory of Joseph Puglisi and Elisabetta Viani Puglisi,    
-                    Stanford University.
-                    Research focus: Architecture of HIV viral RNA. 
+**2019 - present**  
+Postdoc, laboratory of Joseph Puglisi and Elisabetta Viani Puglisi,
+Stanford University.
+Research focus: Architecture of HIV viral RNA. 
                     
 **2017 - 2019**     Postdoc, laboratory of Katharina Ribbeck,    
                     Massachusetts Institute of Technology. 
