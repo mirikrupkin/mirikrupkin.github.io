@@ -35,7 +35,7 @@ Research experience
                     Weizmann Institute of Science.
                     Thesis: The Origin of the Ribosome and its Paralyzation by Antibiotics.
 
-**2009 - 2011**     M.Sc., laboratory of Prof. Ada Yonath, 
+**2009 - 2011**     M.Sc., laboratory of Ada Yonath, 
                     Weizmann Institute of Science.
                     Thesis: Towards the Determination of the Structure of *Mycobacterium smegmatis* Ribosome.
 
