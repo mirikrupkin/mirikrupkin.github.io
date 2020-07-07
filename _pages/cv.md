@@ -153,6 +153,53 @@ Awards and Fellowships
 Other Activities
 ======
 
+**2020- current** 
+Reviewer Board for the international peer-reviewed journal [Antibiotics](https://www.mdpi.com/journal/antibiotics/submission_reviewers).
+
+**2020** 
+- S2C2 SLAC cryoEM Image Processing workshop, Stanford, USA. 
+- Retroviruses 2020 Cold Spring Harbor Laboratory Meeting, NY.
+- “Conference on Retroviruses and Opportunistic Infection- CROI 2020“, Boston, USA. 
+
+**2019**	
+- “17th Course: Frontiers of Biophysics”, Erice, Italy. 	
+- Organizer of the [4th Annual MIT-Harvard Microbiome Symposium](https://microbiome2019.wordpress.com), Boston. 
+- Club leadership at the [microbiome club](https://microbiome.mit.edu/for-students/microbiome-club/), MIT.
+
+**2018** 
+- Mentor at the [MRL summer internship program](https://mrl.mit.edu/index.php/about-mrl/industry-collegium/157-at-the-forefront-of-new-technology), MIT. 
+- MIT Path of Professorship, MIT, USA.
+- Panel speaker: [Finding a postdoc](https://calendar.mit.edu/event/finding_a_postdoc#.XqJaci-ZPBI), MIT.
+
+**2018- 2019** 
+Organizer of “GlycoBioClub”- the MIT Glycobiology journal club, MIT.  
+
+**2017- 2019** 
+Science outreach at the Boston Science Museum, Boston.  
+
+**2015** 
+- Organizer of the [Frontiers in Chemical Sciences Symposium](http://www.weizmann.ac.il/chemistry/sites/chemistry/files/17323poster16508_13.pdf), Israel.
+- Panel leader: Gender Balance in Chemical Sciences, Frontiers in Chemical Sciences Symposium, Weizmann Institute of Science.
+
+**2013** 
+Chair of Weizmann Institute Student Council.
+
+**2013** 
+Panel organizer and speaker: How to choose a rotation lab, Weizmann Institute of Science.
+
+**2010** 
+BCA/CCP4 Summer School in Protein Crystallography, Oxford, UK.
+
+**2009 - 2017** 
+Synchrotron user. Locations: ESRF, France. SLS, Switzerland. Diamond, UK.
+
+**2009 - 2016** 
+Instructor in “Chetz”, “The De-Shalit Research Camp (Zuta)” and other youth science programs of the Davidson Institute of Science Education, Israel.
+
+
+Other Activities
+======
+
 **2020- current** Reviewer Board for the international peer-reviewed journal [Antibiotics](https://www.mdpi.com/journal/antibiotics/submission_reviewers).
 
 **2020** S2C2 SLAC cryoEM Image Processing workshop, Stanford, USA. 
@@ -190,4 +237,6 @@ Other Activities
 **2009 - 2017** Synchrotron user. Locations: ESRF, France. SLS, Switzerland. Diamond, UK.
 
 **2009 - 2016** Instructor in “Chetz”, “The De-Shalit Research Camp (Zuta)” and other youth science programs of the Davidson Institute of Science Education, Israel.
+
+
 
