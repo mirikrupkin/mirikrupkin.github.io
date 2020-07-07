@@ -135,6 +135,22 @@ Ben-Gurion University, Israel.
   
 Awards and Fellowships
 ======
+- **2016:** Travel fellowship award, Cincinnati Children’s Hospital Medical Center, Ohio, USA.
+
+- **2015:** Best talk, Genetics, Genomics and Evolution conference, Tel Aviv University.
+
+- **2013:** [Vallee travel fellowship award](https://www.thevalleefoundation.org/programs/lindau/miri-krupkin-msc-0), “The 63rd Lindau Nobel Laureate Meeting”, Germany.
+
+- **2012 - 2016:** [Adams Ph.D. fellowship](http://adams.academy.ac.il/fellow/miri-krupkin/) of the Israel Academy of Sciences and Humanities. 
+
+- **2007:** Schächter summer scholarship for research, Bar-Ilan University.
+
+- **2006:** Dean's Honors list, Bar-Ilan University.
+
+
+  
+Awards and Fellowships
+======
 **2016** Travel fellowship award, Cincinnati Children’s Hospital Medical Center, Ohio, USA.
 
 **2015** Best talk, Genetics, Genomics and Evolution conference, Tel Aviv University.
@@ -146,8 +162,6 @@ Awards and Fellowships
 **2007** Schächter summer scholarship for research, Bar-Ilan University.
 
 **2006** Dean's Honors list, Bar-Ilan University.
-
-
 
   
 Other Activities
@@ -187,48 +201,3 @@ Other Activities
 **2009 - 2017** 
 - Synchrotron user. Locations: ESRF, France. SLS, Switzerland. Diamond, UK.
 - Instructor in “Chetz”, “The De-Shalit Research Camp (Zuta)” and other youth science programs of the Davidson Institute of Science Education, Israel.
-
-
-Other Activities
-======
-
-**2020- current** Reviewer Board for the international peer-reviewed journal [Antibiotics](https://www.mdpi.com/journal/antibiotics/submission_reviewers).
-
-**2020** S2C2 SLAC cryoEM Image Processing workshop, Stanford, USA. 
-
-**2020** Retroviruses 2020 Cold Spring Harbor Laboratory Meeting, NY.
-
-**2020** “Conference on Retroviruses and Opportunistic Infection- CROI 2020“, Boston, USA. 
-
-**2019**	“17th Course: Frontiers of Biophysics”, Erice, Italy. 	
-
-**2019** Organizer of the [4th Annual MIT-Harvard Microbiome Symposium](https://microbiome2019.wordpress.com), Boston. 
-
-**2019** Club leadership at the [microbiome club](https://microbiome.mit.edu/for-students/microbiome-club/), MIT.
-
-**2018** Mentor at the [MRL summer internship program](https://mrl.mit.edu/index.php/about-mrl/industry-collegium/157-at-the-forefront-of-new-technology), MIT. 
-
-**2018** MIT Path of Professorship, MIT, USA.
-
-**2018** Panel speaker: [Finding a postdoc](https://calendar.mit.edu/event/finding_a_postdoc#.XqJaci-ZPBI), MIT.
-
-**2018- 2019** Organizer of “GlycoBioClub”- the MIT Glycobiology journal club, MIT.  
-
-**2017- 2019** Science outreach at the Boston Science Museum, Boston.  
-
-**2015** Organizer of the [Frontiers in Chemical Sciences Symposium](http://www.weizmann.ac.il/chemistry/sites/chemistry/files/17323poster16508_13.pdf), Israel.
-
-**2015** Panel leader: Gender Balance in Chemical Sciences, Frontiers in Chemical Sciences Symposium, Weizmann Institute of Science.
-
-**2013** Chair of Weizmann Institute Student Council.
-
-**2013** Panel organizer and speaker: How to choose a rotation lab, Weizmann Institute of Science.
-
-**2010** BCA/CCP4 Summer School in Protein Crystallography, Oxford, UK.
-
-**2009 - 2017** Synchrotron user. Locations: ESRF, France. SLS, Switzerland. Diamond, UK.
-
-**2009 - 2016** Instructor in “Chetz”, “The De-Shalit Research Camp (Zuta)” and other youth science programs of the Davidson Institute of Science Education, Israel.
-
-
-
