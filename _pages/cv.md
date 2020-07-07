@@ -23,9 +23,9 @@ Education
 Research experience
 ======
 **2019 - present**  
-Postdoc, laboratory of Joseph Puglisi and Elisabetta Viani Puglisi,
-Stanford University.
-Research focus: Architecture of HIV viral RNA. 
+  Postdoc, laboratory of Joseph Puglisi and Elisabetta Viani Puglisi,
+  Stanford University.
+  Research focus: Architecture of HIV viral RNA. 
                     
 **2017 - 2019**     Postdoc, laboratory of Katharina Ribbeck,    
                     Massachusetts Institute of Technology. 
