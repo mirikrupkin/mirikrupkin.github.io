@@ -14,12 +14,12 @@ main:
 
 #  - title: "Teaching"
 #    url: /teaching/    
-    
-  - title: "Postdociot"
-    url: /postdociot/
         
   - title: "Blog Posts"
     url: /year-archive/
+    
+  - title: "Postdociot"
+    url: /postdociot/
     
   - title: "CV"
     url: /cv/
