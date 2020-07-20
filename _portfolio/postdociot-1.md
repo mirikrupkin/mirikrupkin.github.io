@@ -13,6 +13,7 @@ Join us to meet and network with other postdocs that are also women.
   - Follow us [@Postdociot](https://twitter.com/postdociot) on twitter.
   - Sign up to [recieve emails](https://forms.gle/b95uuGRsP9ikQYtGA) if youre not on social media. 
   - Tell us more about yourself to be [featured](https://forms.gle/b95uuGRsP9ikQYtGA) on our social media accounts. 
+  - Do you have good news? new paper, conference talk, relocation? [Share with us, so we can feature it](https://forms.gle/6qwgqAwJfp2LHZ697).
   - Come back to our [homepage](https://mirikrupkin.github.io/postdociot/) to check what's new!
 
 See you soon,
