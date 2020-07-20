@@ -1,5 +1,5 @@
 ---
-title: "postdociot 1"
+title: "postdociot_1"
 excerpt: "Hi Postdocs, welcome to the postdociot <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
