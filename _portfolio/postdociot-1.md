@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
-excerpt: "Hi Postdocs, welcome to the postdociot <br/><img src='/images/500x300.png'>"
+excerpt: "Hi Postdocs, welcome to the postdociot <br/><img src='/images/postdociot-1.png'>"
 collection: portfolio
 ---
 
