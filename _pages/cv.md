@@ -11,11 +11,14 @@ redirect_from:
 
 Education
 ======
-**2011 - 2016**     Ph.D. in Structural Biology, Weizmann Institute of Science.
+**2011 - 2016**     
+Ph.D. in Structural Biology, Weizmann Institute of Science.
 
-**2008 - 2011**     M.Sc. in Structural Biology, Weizmann Institute of Science.
+**2008 - 2011**     
+M.Sc. in Structural Biology, Weizmann Institute of Science.
 
-**2005 - 2008**     B.Sc. in Chemistry, Bar-Ilan University, graduated magna cum laude.
+**2005 - 2008**     
+B.Sc. in Chemistry, Bar-Ilan University, graduated magna cum laude.
               
 
 Research experience
