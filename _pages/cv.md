@@ -20,34 +20,24 @@ Education
 
 Research experience
 ======
-**2019 - present**  
-Postdoc, Stanford University.             
+**Postdoc, Stanford University**           
 Laboratory of Joseph Puglisi and Elisabetta Viani Puglisi.                   
 Research focus: Architecture of HIV viral RNA. 
-                    
-**2017 - 2019**     
-Postdoc, Massachusetts Institute of Technology.               
-Laboratory of Katharina Ribbeck.                              
-Research focus: Mucus in health and disease. 
-
-**2011 - 2016**     
-Ph.D., Weizmann Institute of Science.                
+    
+**Ph.D., Weizmann Institute of Science**              
 Adviser: Ada Yonath.                          
 Thesis: The Origin of the Ribosome and its Paralyzation by Antibiotics.
-
-**2009 - 2011**     
-M.Sc., Weizmann Institute of Science.                   
+   
+**M.Sc., Weizmann Institute of Science**                   
 Adviser: Ada Yonath.                    
 Thesis: Towards the Determination of the Structure of *Mycobacterium smegmatis* Ribosome.
-
-**2008 - 2009**     
-Rotations at Weizmann Institute of Science:                    
+   
+**Rotations at Weizmann Institute of Science**                 
 1) Ribosome structure and function, laboratory of Ada Yonath.                
 2) Organized lipid domains, laboratory of Lia Addadi.              
 3) Nano and bio composite materials, laboratory of Daniel Wagner.                    
 
-**2007 - 2008**     
-Undergraduate research at Bar Ilan University:                  
+**Undergraduate research at Bar Ilan University**                
 Conducting polymers, laboratory of Joseph Frey.
                     
 
