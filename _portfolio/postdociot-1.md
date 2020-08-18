@@ -1,5 +1,6 @@
 ---
 title: "Postdociot- Welcome"
+date: 2020-07-20
 excerpt: "Hi Postdocs, welcome to the postdociot homepage <br/><img src='/images/postdociot-1.png'>"
 collection: portfolio
 ---
