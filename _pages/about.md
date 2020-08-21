@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc in [the Puglisi lab](https://med.stanford.edu/profiles/miri-krupkin), at Stanford University, where I study the regulatory role of RNA structures in HIV infection. My passion is to reveal the molecular basis of infectious diseases and to expand our understanding of antibiotics and antiviral drugs. 
+I am a structural biologist studying HIV infection on the molceular level at (Stanford university](https://med.stanford.edu/profiles/miri-krupkin). My passion is to reveal the molecular basis of infectious diseases and to expand our understanding of antibiotics and antiviral drugs. I focus on the regulatory role of RNA structures in reverse transcription of HIV. Read more about what's new in HIV [here](https://mirikrupkin.github.io/posts/2020/04/blog-post-2/) and [here](https://mirikrupkin.github.io/posts/2020/05/blog-post-1/). Read more about what's new in structural biology [here](https://mirikrupkin.github.io/posts/2020/06/blog-post-1/). 
 
 Background
 ======
