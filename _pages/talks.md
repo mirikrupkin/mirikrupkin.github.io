@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+Talks and presentations
+=======
+
 **2019** 
 
 - **Guest seminar**: Layers of Protection: from molecular mechanisms to organism defense. School of medicine, Stanford. 
@@ -81,6 +84,7 @@ Panels
 - **Panel organizer and speaker**: How to choose a rotation lab, Weizmann Institute of Science.
 
 ![](/images/panels.png) 
+
 
 Podcasts
 =======
