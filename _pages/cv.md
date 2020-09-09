@@ -47,6 +47,10 @@ Conducting polymers, laboratory of Joseph Frey.
 
 Publications
 ======
+**[Advances in understanding the initiation of HIV-1 reverse transcription](https://www.sciencedirect.com/science/article/pii/S0959440X20301354?via%3Dihub)** 
+Krupkin M'^1^<sup>2</sup>, Jackson LN', Ha B', Puglisi EV. 
+Current Opinion in Structural Biology, Volume 65, December 2020, Pages 175-183. 
+
 Matzov D, Eyal Z, Benhamou RI, Shalev-Benami M, Halfon Y, **Krupkin M**, Zimmerman E, Rozenberg H, Bashan A, Fridman M, Yonath A. “Structural insights of lincosamides targeting the ribosome of Staphylococcus aureus”. Nucleic Acids Res. 2017 Sep 29;45(17):10284-10292.
 
 Wekselman I, Zimmerman E, Davidovich C, Belousoff M, Matzov D, **Krupkin M**, Rozenberg H, Bashan A, Friedlander G, Kjeldgaard J, Ingmer H, Lindahl L, Zengel JM, Yonath A. “The Ribosomal Protein uL22 Modulates the Shape of the Protein Exit Tunnel”. Structure. 2017 Aug 1;25(8):1233-1241.e3. Epub 2017 Jul 6.
