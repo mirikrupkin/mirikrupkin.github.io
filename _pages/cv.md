@@ -49,33 +49,33 @@ Publications
 ======
 **Advances in understanding the initiation of HIV-1 reverse transcription**           
 **Krupkin M<sup>*</sup>**, Jackson LN<sup>*</sup>, Ha B<sup>*</sup>, Puglisi EV.                  
-Current Opinion in Structural Biology, Volume 65, December 2020, Pages 175-183. 
+Current Opinion in Structural Biology, Volume 65, December 2020, Pages 175-183.            
 [link](https://www.sciencedirect.com/science/article/pii/S0959440X20301354?via%3Dihub).
 
-**Structural insights of lincosamides targeting the ribosome of Staphylococcus aureus**
-Matzov D, Eyal Z, Benhamou RI, Shalev-Benami M, Halfon Y, **Krupkin M**, Zimmerman E, Rozenberg H, Bashan A, Fridman M, Yonath A. 
-Nucleic Acids Res. 2017 Sep 29;45(17):10284-10292. 
-[link](https://academic.oup.com/nar/article/45/17/10284/4056233).
+**Structural insights of lincosamides targeting the ribosome of Staphylococcus aureus**           
+Matzov D, Eyal Z, Benhamou RI, Shalev-Benami M, Halfon Y, **Krupkin M**, Zimmerman E, Rozenberg H, Bashan A, Fridman M, Yonath A.             
+Nucleic Acids Res. 2017 Sep 29;45(17):10284-10292.            
+[link](https://academic.oup.com/nar/article/45/17/10284/4056233).           
 
-**The Ribosomal Protein uL22 Modulates the Shape of the Protein Exit Tunnel**
-Wekselman I, Zimmerman E, Davidovich C, Belousoff M, Matzov D, **Krupkin M**, Rozenberg H, Bashan A, Friedlander G, Kjeldgaard J, Ingmer H, Lindahl L, Zengel JM, Yonath A. 
-Structure. 2017 Aug 1;25(8):1233-1241.e3. Epub 2017 Jul 6.
+**The Ribosomal Protein uL22 Modulates the Shape of the Protein Exit Tunnel**           
+Wekselman I, Zimmerman E, Davidovich C, Belousoff M, Matzov D, **Krupkin M**, Rozenberg H, Bashan A, Friedlander G, Kjeldgaard J, Ingmer H, Lindahl L, Zengel JM, Yonath A.            
+Structure. 2017 Aug 1;25(8):1233-1241.e3. Epub 2017 Jul 6.           
 [link](https://www.cell.com/structure/fulltext/S0969-2126(17)30184-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0969212617301843%3Fshowall%3Dtrue).
 
-**Avilamycin and evernimicin induce structural changes in rProteins uL16 and CTC that enhance the inhibition of A-site tRNA binding**
-**Krupkin M<sup>*</sup>**, Wekselman I<sup>*</sup>, Matzov D, Eyal Z, Diskin Posner Y, Rozenberg H, Zimmerman E, Bashan A, Yonath A. 
-Proc Natl Acad Sci U S A. 2016 Nov 1;113(44):E6796-E6805.
-[link](https://www.pnas.org/content/113/44/E6796). 
+**Avilamycin and evernimicin induce structural changes in rProteins uL16 and CTC that enhance the inhibition of A-site tRNA binding**           
+**Krupkin M<sup>*</sup>**, Wekselman I<sup>*</sup>, Matzov D, Eyal Z, Diskin Posner Y, Rozenberg H, Zimmerman E, Bashan A, Yonath A.            
+Proc Natl Acad Sci U S A. 2016 Nov 1;113(44):E6796-E6805.           
+[link](https://www.pnas.org/content/113/44/E6796).            
 
-**A novel pleuromutilin antibacterial compound, its binding mode and selectivity mechanism**
-Eyal Z<sup>*</sup>, Matzov D<sup>*</sup>, **Krupkin M**, Paukner S, Riedl R, Rozenberg H, Zimmerman E, Bashan A, and Yonath A. 
-Sci Rep. 2016 Dec 13;6:39004.
-[link](https://www.nature.com/articles/srep39004)
+**A novel pleuromutilin antibacterial compound, its binding mode and selectivity mechanism**           
+Eyal Z<sup>*</sup>, Matzov D<sup>*</sup>, **Krupkin M**, Paukner S, Riedl R, Rozenberg H, Zimmerman E, Bashan A, and Yonath A.            
+Sci Rep. 2016 Dec 13;6:39004.           
+[link](https://www.nature.com/articles/srep39004)           
 
-**Ribosomal antibiotics: Contemporary challenges**
-Auerbach-Nevo T, Baram D, Bashan A, Belousoff M, Breiner E, Davidovich C, Cimicata G, Eyal Z, Halfon Y, **Krupkin M**, … Yonath A. 
-Antibiotics (Basel). 2016 Jun 29;5(3). pii: E24.
-[link](https://www.mdpi.com/2079-6382/5/3/24)
+**Ribosomal antibiotics: Contemporary challenges**           
+Auerbach-Nevo T, Baram D, Bashan A, Belousoff M, Breiner E, Davidovich C, Cimicata G, Eyal Z, Halfon Y, **Krupkin M**, … Yonath A.            
+Antibiotics (Basel). 2016 Jun 29;5(3). pii: E24.           
+[link](https://www.mdpi.com/2079-6382/5/3/24)           
 
 **Structural insights into species-specific features of the ribosome from the pathogen staphylococcus aureus**
 Eyal Z<sup>*</sup>, Matzov D<sup>*</sup>, **Krupkin M**, Wekselman I, Paukner S, Zimmerman E, Rozenberg H, Bashan A, Yonath A.
