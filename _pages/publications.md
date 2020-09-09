@@ -54,7 +54,7 @@ Publications
   Sun L, Xiong Y, Bashan A, Zimmerman E, Shulman Daube S, Peleg Y, Albeck S, Unger T, Yonath H, **Krupkin M**, Matzov D, Yonath A.            
   Chembiochem. 2015 Jul 6;16(10):1415-9.           
   [link](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201500205)           
-   **- Journal cover**. 
+   **- Journal cover**.      
   ![](/images/2015-sunw.png) 
 
 
