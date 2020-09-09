@@ -116,7 +116,7 @@ Isr J Chem. 2010 Jun 18;50(1):29-35.
   
   
 Conferences and Presentations 
-======        
+======
 **2019** 
 
 - **Guest seminar**: Layers of Protection: from molecular mechanisms to organism defense. School of medicine, Stanford. 
