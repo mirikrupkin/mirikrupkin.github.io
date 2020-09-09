@@ -8,7 +8,26 @@ author_profile: true
 
 [Miri Krupkin](https://www.ncbi.nlm.nih.gov/pubmed/?term=miri+krupkin") at pubmed.
 
+
+Publications
+======
  
+  * **Advances in understanding the initiation of HIV-1 reverse transcription**         
+  **Krupkin M**<sup>*</sup>, Jackson LN<sup>*</sup>, Ha B<sup>*</sup>, Puglisi EV.         
+  Current Opinion in Structural Biology, Volume 65, December 2020, Pages 175-183.                    
+  [link](https://www.sciencedirect.com/science/article/pii/S0959440X20301354?via%3Dihub).
+ 
+  * **Advances in understanding the initiation of HIV-1 reverse transcription**         
+    **Krupkin M**<sup>*</sup>, Jackson LN<sup>*</sup>, Ha B<sup>*</sup>, Puglisi EV.         
+    Current Opinion in Structural Biology, Volume 65, December 2020, Pages 175-183.                    
+    [link](https://www.sciencedirect.com/science/article/pii/S0959440X20301354?via%3Dihub).
+
+  * **Advances in understanding the initiation of HIV-1 reverse transcription**         
+  **Krupkin M**<sup>*</sup>, Jackson LN<sup>*</sup>, Ha B<sup>*</sup>, Puglisi EV.         
+  Current Opinion in Structural Biology, Volume 65, December 2020, Pages 175-183.                    
+  [link](https://www.sciencedirect.com/science/article/pii/S0959440X20301354?via%3Dihub).
+
+> 
   * Matzov D, Eyal Z, Benhamou RI, Shalev-Benami M, Halfon Y, **Krupkin M**, Zimmerman E, Rozenberg H, Bashan A, Fridman M, Yonath A. “Structural insights of lincosamides targeting the ribosome of Staphylococcus aureus”. Nucleic Acids Res. 2017 Sep 29;45(17):10284-10292. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5622323/)
   
   * Wekselman I, Zimmerman E, Davidovich C, Belousoff M, Matzov D, **Krupkin M**, Rozenberg H, Bashan A, Friedlander G, Kjeldgaard J, Ingmer H, Lindahl L, Zengel JM, Yonath A. “The Ribosomal Protein uL22 Modulates the Shape of the Protein Exit Tunnel”. Structure. 2017 Aug 1;25(8):1233-1241.e3. Epub 2017 Jul 6. [link](https://www.cell.com/structure/fulltext/S0969-2126(17)30184-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0969212617301843%3Fshowall%3Dtrue)
