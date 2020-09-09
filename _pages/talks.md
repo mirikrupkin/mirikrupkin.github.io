@@ -84,5 +84,6 @@ Panels
 
 Podcasts
 =======
-  - **Horizons in HIV research**. Episode 46 of the "MedabriMada" podcast. Why do we need to keep studying HIV, and about new horizons in HIV treatment and prevention. [link](https://lbscience.podbean.com/e/פרק-46-דרמירי-קרופקיןתעצרו-את/).      
-  ![](/images/podcast-medabrimmada.png) 
+  - **Horizons in HIV research**. Episode 46 of the "MedabriMada" podcast. Why do we need to keep studying HIV, and new horizons in HIV treatment and prevention. [link](https://lbscience.podbean.com/e/פרק-46-דרמירי-קרופקיןתעצרו-את/).  
+
+![](/images/podcast-medabrimmada.png) 
