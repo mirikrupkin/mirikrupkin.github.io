@@ -54,7 +54,7 @@ Publications
   Sun L, Xiong Y, Bashan A, Zimmerman E, Shulman Daube S, Peleg Y, Albeck S, Unger T, Yonath H, **Krupkin M**, Matzov D, Yonath A.            
   Chembiochem. 2015 Jul 6;16(10):1415-9.           
   [link](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201500205)           
-  - **Journal cover**. 
+    - **Journal cover**. 
   ![](/images/2015-sunw.png) 
 
 
@@ -76,21 +76,21 @@ Publications
   **Krupkin M**, Matzov D, Tang H, Metz M, Kalaora R, Belousoff MJ, Zimmerman E, Bashan A, Yonath A.                      
   Philos Trans R Soc Lond B Biol Sci. 2011 Oct 27;366(1580):2972-8.           
   [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3158926/).           
-  - **Research highlight**, “The chemical origins of life and its early evolution: an introduction”, Phil. Trans. R. Soc. B3662853–2856 (2011).           
+    - **Research highlight**, “The chemical origins of life and its early evolution: an introduction”, Phil. Trans. R. Soc. B3662853–2856 (2011).           
   ![](/images/2011-protoribosome.png)
 
  
   * **The ribosome as drug target: lessons from 3D structures**           
   Bashan A, Zimmerman E, Belousoff MJ, Rozenberg H, Davidovich C, Wekselman I, Shapira T, **Krupkin M**, Yonath A.           
   Isr Chem Soc. 2010, 25, 10-18.             
-  - **Journal cover**.            
+    - **Journal cover**.            
   ![](/images/2010-drugw.png) 
   
   
   * **The proto-ribosome : An ancient nano-machine for peptide bond formation**           
   Davidovich C, Belousoff M, Wekselman I, Shapira T, **Krupkin M**, Zimmerman E, Bashan A, Yonath A.            
   Isr J Chem. 2010 Jun 18;50(1):29-35.              
-  - **Journal Cover**.             
+    - **Journal Cover**.             
   ![](/images/2010-protoribosomew.png) 
 
 
