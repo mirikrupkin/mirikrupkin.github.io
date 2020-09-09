@@ -37,23 +37,23 @@ Publications
   * E**A novel pleuromutilin antibacterial compound, its binding mode and selectivity mechanism**           
   Eyal Z<sup>*</sup>, Matzov D<sup>*</sup>, **Krupkin M**, Paukner S, Riedl R, Rozenberg H, Zimmerman E, Bashan A, and Yonath A.            
   Sci Rep. 2016 Dec 13;6:39004.           
-  [link](https://www.nature.com/articles/srep39004)     
+  [link](https://www.nature.com/articles/srep39004).     
   
   * **Ribosomal antibiotics: Contemporary challenges**           
   Auerbach-Nevo T, Baram D, Bashan A, Belousoff M, Breiner E, Davidovich C, Cimicata G, Eyal Z, Halfon Y, **Krupkin M**, … Yonath A.            
   Antibiotics (Basel). 2016 Jun 29;5(3). pii: E24.           
-  [link](https://www.mdpi.com/2079-6382/5/3/24)   
+  [link](https://www.mdpi.com/2079-6382/5/3/24).   
   
 
   * **Structural insights into species-specific features of the ribosome from the pathogen staphylococcus aureus**           
   Eyal Z<sup>*</sup>, Matzov D<sup>*</sup>, **Krupkin M**, Wekselman I, Paukner S, Zimmerman E, Rozenberg H, Bashan A, Yonath A.           
   Proc Natl Acad Sci U S A. 2015 Oct 27;112(43):E5805-14.            
-  [link](https://www.pnas.org/content/112/43/E5805)
+  [link](https://www.pnas.org/content/112/43/E5805).
 
   * **A recombinant collagen–mRNA platform for controllable protein synthesis**           
   Sun L, Xiong Y, Bashan A, Zimmerman E, Shulman Daube S, Peleg Y, Albeck S, Unger T, Yonath H, **Krupkin M**, Matzov D, Yonath A.            
   Chembiochem. 2015 Jul 6;16(10):1415-9.           
-  [link](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201500205)           
+  [link](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201500205).           
    **- Journal cover**.      
   ![](/images/2015-sunw.png) 
 
@@ -62,14 +62,14 @@ Publications
   * **Chapter 6: Glimpse into the origin of life: What was first, the genetic code or its products, the proteins?**           
   **Krupkin M**, Bashan A, Yonath A.             
   “Why does Evolution Matter? The Importance of Understanding Evolution”, G. Trueba, ed. (Cambridge Scholars Publishing),(2014), p. 87-100.            
-  [link](https://books.google.com/books?id=f-OmBgAAQBAJ&pg=PA87&lpg=PA87&dq=Glimpse+into+the+Origin+of+Life:+What+was+First,+the+Genetic+Code+or+its+Products,+the+Proteins&source=bl&ots=OfDCcxfFms&sig=ACfU3U1jf3a2PyFrnEm_H8k-J_vAotgYvg&hl=en&sa=X&ved=2ahUKEwjwgOjcz_XpAhXTIjQIHcnGBGkQ6AEwAXoECAkQAQ#v=onepage&q=Glimpse%20into%20the%20Origin%20of%20Life%3A%20What%20was%20First%2C%20the%20Genetic%20Code%20or%20its%20Products%2C%20the%20Proteins&f=false)             
-  [link to book](https://www.cambridgescholars.com/why-does-evolution-matter-the-importance-of-understanding-evolution)              
+  [link to chapter 6](https://books.google.com/books?id=f-OmBgAAQBAJ&pg=PA87&lpg=PA87&dq=Glimpse+into+the+Origin+of+Life:+What+was+First,+the+Genetic+Code+or+its+Products,+the+Proteins&source=bl&ots=OfDCcxfFms&sig=ACfU3U1jf3a2PyFrnEm_H8k-J_vAotgYvg&hl=en&sa=X&ved=2ahUKEwjwgOjcz_XpAhXTIjQIHcnGBGkQ6AEwAXoECAkQAQ#v=onepage&q=Glimpse%20into%20the%20Origin%20of%20Life%3A%20What%20was%20First%2C%20the%20Genetic%20Code%20or%20its%20Products%2C%20the%20Proteins&f=false).             
+  [link to book](https://www.cambridgescholars.com/why-does-evolution-matter-the-importance-of-understanding-evolution).              
   ![](/images/2014-bookw.png)
 
   * **Protoribosome by quantum kernel energy method**           
   Huang L, **Krupkin M**, Bashan A, Yonath A, Massa L.           
   Proc Natl Acad Sci U S A. 2013 Sep 10;110(37):14900-5.           
-  [link](https://www.pnas.org/content/110/37/14900)  
+  [link](https://www.pnas.org/content/110/37/14900).  
 
 > 
   * **A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome**           
@@ -83,6 +83,7 @@ Publications
   * **The ribosome as drug target: lessons from 3D structures**           
   Bashan A, Zimmerman E, Belousoff MJ, Rozenberg H, Davidovich C, Wekselman I, Shapira T, **Krupkin M**, Yonath A.           
   Isr Chem Soc. 2010, 25, 10-18.             
+  [link](https://www.weizmann.ac.il/sb/faculty_pages/Yonath/Bashan-2010ICS.pdf).             
    **- Journal cover**.            
   ![](/images/2010-drugw.png) 
   
@@ -90,6 +91,7 @@ Publications
   * **The proto-ribosome : An ancient nano-machine for peptide bond formation**           
   Davidovich C, Belousoff M, Wekselman I, Shapira T, **Krupkin M**, Zimmerman E, Bashan A, Yonath A.            
   Isr J Chem. 2010 Jun 18;50(1):29-35.              
+  [link](https://onlinelibrary.wiley.com/doi/full/10.1002/ijch.201000012).              
   **- Journal Cover**.             
   ![](/images/2010-protoribosomew.png) 
 
