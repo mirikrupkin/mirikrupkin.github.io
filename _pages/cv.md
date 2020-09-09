@@ -47,21 +47,26 @@ Conducting polymers, laboratory of Joseph Frey.
 
 Publications
 ======
+**Advances in understanding the initiation of HIV-1 reverse transcription**           
+Krupkin M<sup>*</sup>, Jackson LN<sup>*</sup>, Ha B<sup>*</sup>, Puglisi EV.                  
+Current Opinion in Structural Biology, Volume 65, December 2020, Pages 175-183. 
+[link](https://www.sciencedirect.com/science/article/pii/S0959440X20301354?via%3Dihub)
+
 **[Advances in understanding the initiation of HIV-1 reverse transcription](https://www.sciencedirect.com/science/article/pii/S0959440X20301354?via%3Dihub)** 
-Krupkin M'^1^<sup>2</sup>, Jackson LN', Ha B', Puglisi EV. 
+Krupkin M<sup>*</sup>, Jackson LN<sup>*</sup>, Ha B<sup>*</sup>, Puglisi EV. 
 Current Opinion in Structural Biology, Volume 65, December 2020, Pages 175-183. 
 
 Matzov D, Eyal Z, Benhamou RI, Shalev-Benami M, Halfon Y, **Krupkin M**, Zimmerman E, Rozenberg H, Bashan A, Fridman M, Yonath A. “Structural insights of lincosamides targeting the ribosome of Staphylococcus aureus”. Nucleic Acids Res. 2017 Sep 29;45(17):10284-10292.
 
 Wekselman I, Zimmerman E, Davidovich C, Belousoff M, Matzov D, **Krupkin M**, Rozenberg H, Bashan A, Friedlander G, Kjeldgaard J, Ingmer H, Lindahl L, Zengel JM, Yonath A. “The Ribosomal Protein uL22 Modulates the Shape of the Protein Exit Tunnel”. Structure. 2017 Aug 1;25(8):1233-1241.e3. Epub 2017 Jul 6.
 
-**Krupkin M'**, Wekselman I', Matzov D, Eyal Z, Diskin Posner Y, Rozenberg H, Zimmerman E, Bashan A, Yonath A. [“Avilamycin and evernimicin induce structural changes in rProteins uL16 and CTC that enhance the inhibition of A-site tRNA binding”](https://www.pnas.org/content/113/44/E6796). Proc Natl Acad Sci U S A. 2016 Nov 1;113(44):E6796-E6805.
+**Krupkin M<sup>*</sup>**, Wekselman I<sup>*</sup>, Matzov D, Eyal Z, Diskin Posner Y, Rozenberg H, Zimmerman E, Bashan A, Yonath A. [“Avilamycin and evernimicin induce structural changes in rProteins uL16 and CTC that enhance the inhibition of A-site tRNA binding”](https://www.pnas.org/content/113/44/E6796). Proc Natl Acad Sci U S A. 2016 Nov 1;113(44):E6796-E6805.
 
-Eyal Z*, Matzov D*, **Krupkin M**, Paukner S, Riedl R, Rozenberg H, Zimmerman E, Bashan A, and Yonath A. “A novel pleuromutilin antibacterial compound, its binding mode and selectivity mechanism”. Sci Rep. 2016 Dec 13;6:39004.
+Eyal Z<sup>*</sup>, Matzov D<sup>*</sup>, **Krupkin M**, Paukner S, Riedl R, Rozenberg H, Zimmerman E, Bashan A, and Yonath A. “A novel pleuromutilin antibacterial compound, its binding mode and selectivity mechanism”. Sci Rep. 2016 Dec 13;6:39004.
 
 Auerbach-Nevo T, Baram D, Bashan A, Belousoff M, Breiner E, Davidovich C, Cimicata G, Eyal Z, Halfon Y, **Krupkin M**, Matzov D, Metz M, Rufayda M, Peretz M, Pick O, Pyetan E, Rozenberg H, Shalev-Benami M, Wekselman I, … Yonath A. “Ribosomal antibiotics: Contemporary challenges”. Antibiotics (Basel). 2016 Jun 29;5(3). pii: E24.
 
-Eyal Z', Matzov D', **Krupkin M**, Wekselman I, Paukner S, Zimmerman E, Rozenberg H, Bashan A, Yonath A. “Structural insights into species-specific features of the ribosome from the pathogen staphylococcus aureus”. Proc Natl Acad Sci U S A. 2015 Oct 27;112(43):E5805-14. 
+Eyal Z<sup>*</sup>, Matzov D<sup>*</sup>, **Krupkin M**, Wekselman I, Paukner S, Zimmerman E, Rozenberg H, Bashan A, Yonath A. “Structural insights into species-specific features of the ribosome from the pathogen staphylococcus aureus”. Proc Natl Acad Sci U S A. 2015 Oct 27;112(43):E5805-14. 
 
 Sun L, Xiong Y, Bashan A, Zimmerman E, Shulman Daube S, Peleg Y, Albeck S, Unger T, Yonath H, **Krupkin M**, Matzov D, Yonath A. “A recombinant collagen–mRNA platform for controllable protein synthesis”. Chembiochem. 2015 Jul 6;16(10):1415-9.
 
