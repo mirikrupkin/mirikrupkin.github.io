@@ -185,7 +185,7 @@ Other Activities
 - S2C2 SLAC cryoEM Image Processing workshop, Stanford, USA. 
 - Retroviruses 2020 Cold Spring Harbor Laboratory Meeting, NY.
 - “Conference on Retroviruses and Opportunistic Infection- CROI 2020“, Boston, USA. 
-- Reviewer Board for the international peer-reviewed journal [Antibiotics](https://www.mdpi.com/journal/antibiotics/submission_reviewers).
+- Reviewer board for the international peer-reviewed journal [Antibiotics](https://www.mdpi.com/journal/antibiotics/submission_reviewers).
 
 **2019**	
 - “17th Course: Frontiers of Biophysics”, Erice, Italy. 	
