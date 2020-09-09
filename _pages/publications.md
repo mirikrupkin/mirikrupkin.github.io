@@ -34,7 +34,7 @@ Publications
   [link](https://www.pnas.org/content/113/44/E6796).     
   ![](/avilamycin-wide.png)
   
-  * E**A novel pleuromutilin antibacterial compound, its binding mode and selectivity mechanism**           
+  * **A novel pleuromutilin antibacterial compound, its binding mode and selectivity mechanism**           
   Eyal Z<sup>*</sup>, Matzov D<sup>*</sup>, **Krupkin M**, Paukner S, Riedl R, Rozenberg H, Zimmerman E, Bashan A, and Yonath A.            
   Sci Rep. 2016 Dec 13;6:39004.           
   [link](https://www.nature.com/articles/srep39004).     
