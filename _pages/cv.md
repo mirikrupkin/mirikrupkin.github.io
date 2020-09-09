@@ -53,11 +53,11 @@ Current Opinion in Structural Biology, Volume 65, December 2020, Pages 175-183.
 [link](https://www.sciencedirect.com/science/article/pii/S0959440X20301354?via%3Dihub).
 
 **Structural insights of lincosamides targeting the ribosome of Staphylococcus aureus**           
-Matzov D, Eyal Z, Benhamou RI, Shalev-Benami M, Halfon Y, **Krupkin M**, Zimmerman E, Rozenberg H, Bashan A, Fridman M, Yonath A.             
+Matzov D<sup>*</sup>, Eyal Z<sup>*</sup>, Benhamou RI, Shalev-Benami M, Halfon Y, **Krupkin M**, Zimmerman E, Rozenberg H, Bashan A, Fridman M, Yonath A.             
 Nucleic Acids Res. 2017 Sep 29;45(17):10284-10292.            
 [link](https://academic.oup.com/nar/article/45/17/10284/4056233).           
 
-**The Ribosomal Protein uL22 Modulates the Shape of the Protein Exit Tunnel**           
+**The ribosomal protein uL22 modulates the shape of the protein exit tunnel**           
 Wekselman I, Zimmerman E, Davidovich C, Belousoff M, Matzov D, **Krupkin M**, Rozenberg H, Bashan A, Friedlander G, Kjeldgaard J, Ingmer H, Lindahl L, Zengel JM, Yonath A.            
 Structure. 2017 Aug 1;25(8):1233-1241.e3. Epub 2017 Jul 6.           
 [link](https://www.cell.com/structure/fulltext/S0969-2126(17)30184-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0969212617301843%3Fshowall%3Dtrue).
@@ -87,7 +87,7 @@ Sun L, Xiong Y, Bashan A, Zimmerman E, Shulman Daube S, Peleg Y, Albeck S, Unger
 Chembiochem. 2015 Jul 6;16(10):1415-9.           
 [link](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201500205)           
 
-**Chapter 6: Glimpse into the Origin of Life: What was First, the Genetic Code or its Products, the Proteins?**           
+**Chapter 6: Glimpse into the origin of life: What was first, the genetic code or its products, the proteins?**           
 **Krupkin M**, Bashan A, Yonath A.             
 “Why does Evolution Matter? The Importance of Understanding Evolution”, G. Trueba, ed. (Cambridge Scholars Publishing),(2014), p. 87-100.            
 [link](https://books.google.com/books?id=f-OmBgAAQBAJ&pg=PA87&lpg=PA87&dq=Glimpse+into+the+Origin+of+Life:+What+was+First,+the+Genetic+Code+or+its+Products,+the+Proteins&source=bl&ots=OfDCcxfFms&sig=ACfU3U1jf3a2PyFrnEm_H8k-J_vAotgYvg&hl=en&sa=X&ved=2ahUKEwjwgOjcz_XpAhXTIjQIHcnGBGkQ6AEwAXoECAkQAQ#v=onepage&q=Glimpse%20into%20the%20Origin%20of%20Life%3A%20What%20was%20First%2C%20the%20Genetic%20Code%20or%20its%20Products%2C%20the%20Proteins&f=false)
@@ -116,7 +116,7 @@ Isr J Chem. 2010 Jun 18;50(1):29-35.
   
   
 Conferences and Presentations 
-======
+======        
 **2019** 
 
 - **Guest seminar**: Layers of Protection: from molecular mechanisms to organism defense. School of medicine, Stanford. 
