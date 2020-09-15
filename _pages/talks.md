@@ -88,6 +88,6 @@ Panels
 
 Podcasts
 =======
-  - **Future directions in HIV therapy**. Episode 46 of the "MedabriMada" podcast. Why do we need to keep studying HIV, and new horizons in HIV treatment and prevention. [link](https://lbscience.podbean.com/e/פרק-46-דרמירי-קרופקיןתעצרו-את/).  
+  - **Future directions in HIV therapy**. Podcast with "Talking Science", an Israeli science podcast by [@MadaGadol](https://twitter.com/MadaGadol). HIV, Why do we need to keep studying it, and new horizons in HIV treatment and prevention. [link](https://lbscience.podbean.com/e/פרק-46-דרמירי-קרופקיןתעצרו-את/).  
 
 ![](/images/podcast-medabrimmada.png) 
