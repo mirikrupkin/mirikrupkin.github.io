@@ -18,6 +18,9 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
+  - title: "links"
+    url: /links/ 
+
   - title: "Resources"
     url: /Resources/ 
     
