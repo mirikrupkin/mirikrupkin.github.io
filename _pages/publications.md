@@ -14,8 +14,8 @@ Publications
  <h2> First and *co-first author list: </h2>
  
  > 
-  * **Comparison of Physicochemical Properties of Native Mucus and Reconstituted Mucin Gels**
-  Wagner CE<sup>*</sup>, **Krupkin M**<sup>*</sup>, Smith-Dupont KB<sup>*</sup>, Wu CM, Bustos NA, Witten J, Ribbeck K.
+  * **Comparison of Physicochemical Properties of Native Mucus and Reconstituted Mucin Gels**            
+  Wagner CE<sup>*</sup>, **Krupkin M**<sup>*</sup>, Smith-Dupont KB<sup>*</sup>, Wu CM, Bustos NA, Witten J, Ribbeck K.        
   Biomacromolecules (2023). [link](https://pubs.acs.org/doi/10.1021/acs.biomac.2c01016))
     
  > 
@@ -50,7 +50,7 @@ Publications
 
  <h2>Contributing author list:</h2>
  
- * **Intelectin-2 is a broad-spectrum antimicrobial lectin**
+ * **Intelectin-2 is a broad-spectrum antimicrobial lectin**              
    Dugan A, … **Krupkin M**, Ribbeck K, Xavier R, Bevins C, and Kiessling L.
   [Link](https://www.biorxiv.org/content/10.1101/2025.06.09.658748v1)
 
