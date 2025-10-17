@@ -15,17 +15,17 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/    
         
-  - title: "Blog Posts"
-    url: /year-archive/
+ # - title: "Blog Posts"
+#  url: /year-archive/
 
-  - title: "Links"
-    url: /links/ 
+ # - title: "Links"
+ #   url: /links/ 
 
   - title: "Resources"
     url: /resources/ 
     
-  - title: "Postdociot"
-    url: /postdociot/
+ # - title: "Postdociot"
+ #   url: /postdociot/
     
   - title: "CV"
     url: /cv/
