@@ -6,12 +6,17 @@ author_profile: true
 ---
 
 
-[Miri Krupkin](https://www.ncbi.nlm.nih.gov/pubmed/?term=miri+krupkin") at pubmed.
+[Miri Krupkin](https://www.ncbi.nlm.nih.gov/pubmed/?term=miri+krupkin) at pubmed.
 
 
 Publications
 ======
  > 
+
+  * **Comparison of Physicochemical Properties of Native Mucus and Reconstituted Mucin Gels**
+  Wagner CE<sup>*</sup>, **Krupkin M**<sup>*</sup>, Smith-Dupont KB<sup>*</sup>, Wu CM, Bustos NA, Witten J, Ribbeck K.
+  Biomacromolecules (2023). [doi:](10.1021/acs.biomac.2c01016)
+  
   * **Advances in understanding the initiation of HIV-1 reverse transcription**         
   **Krupkin M**<sup>*</sup>, Jackson LN<sup>*</sup>, Ha B<sup>*</sup>, Puglisi EV.         
   Current Opinion in Structural Biology, Volume 65, December 2020, Pages 175-183.                    
