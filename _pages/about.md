@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a structural biologist studying HIV infection on the molceular level at [Stanford university](https://profiles.stanford.edu/miri-krupkin). My passion is to reveal the molecular basis of infectious diseases and to expand our understanding of antibiotics and antiviral drugs. I focus on the regulatory role of RNA structures in reverse transcription of the HIV virus. I develop structural biology and biophysics tools to track the viral RNA rearrangments inside the HIV virus during reverse transcription of. 
+I am a structural biologist studying HIV infection on the molecular level at [Stanford university](https://profiles.stanford.edu/miri-krupkin). My passion is to reveal the molecular basis of infectious diseases and to expand our understanding of antibiotics and antiviral drugs. I focus on the regulatory role of RNA structures in reverse transcription of the HIV virus. In my research, I develop structural biology and biophysical tools to track the viral RNA rearrangments inside the HIV virus during reverse transcription. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HgKtNtVx-oQ?si=yAvsifTjvDl3rw0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
