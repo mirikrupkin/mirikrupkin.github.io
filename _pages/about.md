@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a structural biologist studying HIV infection on the molceular level at [Stanford university](https://profiles.stanford.edu/miri-krupkin). My passion is to reveal the molecular basis of infectious diseases and to expand our understanding of antibiotics and antiviral drugs. I focus on the regulatory role of RNA structures in reverse transcription of the HIV virus. Read more about what's new in HIV research [here](https://mirikrupkin.github.io/posts/2020/04/blog-post-2/) and [here](https://mirikrupkin.github.io/posts/2020/05/blog-post-1/). Read more about what's new in structural biology [here](https://mirikrupkin.github.io/posts/2020/06/blog-post-1/). 
+I am a structural biologist studying HIV infection on the molceular level at [Stanford university](https://profiles.stanford.edu/miri-krupkin). My passion is to reveal the molecular basis of infectious diseases and to expand our understanding of antibiotics and antiviral drugs. I focus on the regulatory role of RNA structures in reverse transcription of the HIV virus. I use structural biology and biophysics to track the viral RNA rearrangments during reverse transcription of the HIV virus. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HgKtNtVx-oQ?si=yAvsifTjvDl3rw0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 Background
 ======
@@ -20,6 +23,10 @@ Other Interests
 ======
 I am devoted to promoting science education and outreach. 
 In my spare time, I love to do yoga. 
+
+HIV and Structural Biology news
+======
+Read more about what's new in HIV research [here](https://mirikrupkin.github.io/posts/2020/04/blog-post-2/) and [here](https://mirikrupkin.github.io/posts/2020/05/blog-post-1/). Read more about what's new in structural biology [here](https://mirikrupkin.github.io/posts/2020/06/blog-post-1/). 
 
 ![](/images/Yoga-Boston.png) 
 
