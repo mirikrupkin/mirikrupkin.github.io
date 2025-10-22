@@ -13,49 +13,42 @@ Publications
 ======
  <h2> First and *co-first author list: </h2>
  
- > 
-  * **Comparison of Physicochemical Properties of Native Mucus and Reconstituted Mucin Gels**            
+1. **Comparison of Physicochemical Properties of Native Mucus and Reconstituted Mucin Gels**            
   Wagner CE<sup>*</sup>, **Krupkin M**<sup>*</sup>, Smith-Dupont KB<sup>*</sup>, Wu CM, Bustos NA, Witten J, Ribbeck K.        
   Biomacromolecules (2023). [link](https://pubs.acs.org/doi/10.1021/acs.biomac.2c01016))
-    
- > 
-  * **Advances in understanding the initiation of HIV-1 reverse transcription**         
+2. **Advances in understanding the initiation of HIV-1 reverse transcription**         
   **Krupkin M**<sup>*</sup>, Jackson LN<sup>*</sup>, Ha B<sup>*</sup>, Puglisi EV.         
   Current Opinion in Structural Biology, Volume 65, December 2020, Pages 175-183.                    
   [link](https://www.sciencedirect.com/science/article/pii/S0959440X20301354?via%3Dihub).
-
- > 
-  * **Avilamycin and evernimicin induce structural changes in rProteins uL16 and CTC that enhance the inhibition of A-site tRNA binding**           
+3. **Avilamycin and evernimicin induce structural changes in rProteins uL16 and CTC that enhance the inhibition of A-site tRNA binding**           
   **Krupkin M<sup>*</sup>**, Wekselman I<sup>*</sup>, Matzov D, Eyal Z, Diskin Posner Y, Rozenberg H, Zimmerman E, Bashan A, Yonath A.
   Proc Natl Acad Sci U S A. 2016 Nov 1;113(44):E6796-E6805.           
   [link](https://www.pnas.org/content/113/44/E6796).     
   ![](/avilamycin-wide.png)
-
-> 
-  * **Glimpse into the origin of life: What was first, the genetic code or its products, the proteins?**           
+4. **Glimpse into the origin of life: What was first, the genetic code or its products, the proteins?**           
   **Krupkin M**, Bashan A, Yonath A.             
   “Why does Evolution Matter? The Importance of Understanding Evolution”, G. Trueba, ed. (Cambridge Scholars Publishing),(2014), chapter6, p. 87-100.            
   [link to chapter 6](https://books.google.com/books?id=f-OmBgAAQBAJ&pg=PA87&lpg=PA87&dq=Glimpse+into+the+Origin+of+Life:+What+was+First,+the+Genetic+Code+or+its+Products,+the+Proteins&source=bl&ots=OfDCcxfFms&sig=ACfU3U1jf3a2PyFrnEm_H8k-J_vAotgYvg&hl=en&sa=X&ved=2ahUKEwjwgOjcz_XpAhXTIjQIHcnGBGkQ6AEwAXoECAkQAQ#v=onepage&q=Glimpse%20into%20the%20Origin%20of%20Life%3A%20What%20was%20First%2C%20the%20Genetic%20Code%20or%20its%20Products%2C%20the%20Proteins&f=false).             
   [link to book](https://www.cambridgescholars.com/why-does-evolution-matter-the-importance-of-understanding-evolution).              
   ![](/images/2014-bookw.png)
-
-> 
-  * **A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome**           
+5. **A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome**           
   **Krupkin M**, Matzov D, Tang H, Metz M, Kalaora R, Belousoff MJ, Zimmerman E, Bashan A, Yonath A.                      
   Philos Trans R Soc Lond B Biol Sci. 2011 Oct 27;366(1580):2972-8.           
   [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3158926/).           
    **- Research highlight**, “The chemical origins of life and its early evolution: an introduction”, Phil. Trans. R. Soc. B3662853–2856 (2011).           
   ![](/images/2011-protoribosome.png)
 
-
  <h2>Contributing author list:</h2>
  
- * **Intelectin-2 is a broad-spectrum antimicrobial lectin**              
-   Dugan A, … **Krupkin M**, Ribbeck K, Xavier R, Bevins C, and Kiessling L.
+6. **Intelectin-2 is a broad-spectrum antimicrobial lectin**              
+   Dugan A, Syangtan D, Nonnecke EB, Chorghade RS, Peiffer AJ, Yao JJ, Ille-Bunn J, Sergio D,  Pishchany G, Dhennezel C, Vlamakis H, Bae S,Johnson S, Ellis C, Ghosh S, Alty JW, Barnes CE, **Krupkin M**, Ribbeck K, Xavier R, Bevins C, and Kiessling L.
   [Link](https://www.biorxiv.org/content/10.1101/2025.06.09.658748v1)
-
-
-  * **Structural insights of lincosamides targeting the ribosome of Staphylococcus aureus**           
+7.Yapici I, Dao H, Yokoi S, **Krupkin M**, …, Puglisi EV, Puglisi JD, Wakatsuki S, and DeMirci H. “4D Crystallography Captures Transient IF1-Ribosome Dynamics in Translation Initiation”. Submitted. 
+9.	Diehl RC, Chorghade JS, Keys AM, Alam MM, Early SA, Dugan AE, **Krupkin M**, Ribbeck K, Kulik HJ, and Kiessling LL. “A CH-π Interaction Is Required for Human Galectin-3 Function”. JACS Au (2024). Link. 
+10.	Nouhin J, Tzou PL, Rhee SY, Sahoo MK, Pinsky BA, Krupkin M, Puglisi JD, Puglisi EV, Shafer RW. “Human immunodeficiency virus 1 5'-leader mutations in plasma viruses before and after the development of reverse transcriptase inhibitor-resistance mutations”. J Gen Virol (2023). Link. 
+11.	Prabhakar A<sup>*</sup>, Krahn N<sup>*</sup>, Zhang J<sup>*</sup>, Vargas-Rodriguez O, **Krupkin M**, Fu Z, Acosta-Reyes FJ, Ge X, Choi J, Crnkovic ́A, Ehrenberg M, Puglisi EV, So ̈ll, and Puglisi J “Uncovering translation roadblocks during the development of a synthetic tRNA”. Nucleic Acids Res (2022). Link. Journal cover. 
+12.	Bose T, Fridkin G, Davidovich C, **Krupkin M**, Dinger N, Falkovich AH, Peleg Y, Agmon I, Bashan A, Yonath A. “Origin of life: proto ribosome forms peptide bonds and links RNA and protein dominated worlds”. Nucleic Acids Res (2022). Link. Featured in Nature news: Link. 
+8. **Structural insights of lincosamides targeting the ribosome of Staphylococcus aureus**           
   Matzov D<sup>*</sup>, Eyal Z<sup>*</sup>, Benhamou RI, Shalev-Benami M, Halfon Y, **Krupkin M**, Zimmerman E, Rozenberg H, Bashan A, Fridman M, Yonath A.             
   Nucleic Acids Res. 2017 Sep 29;45(17):10284-10292.            
   [link](https://academic.oup.com/nar/article/45/17/10284/4056233).           
