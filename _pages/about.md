@@ -16,14 +16,14 @@ I am a structural biologist studying HIV infection on the molecular level at [St
 ### HIV viral RNA
 Originally, I trained as a chemist during my BSc. My postdoctoral research focus is on revealing the regulatory role of RNA structures in reverse transcription of the HIV virus, at my postdoctoral research at the [Puglisi labs](https://puglisi.stanford.edu). The role of RNA structures in early steps of reverse transcription are poorly understood. Specifically, the complex process of reverse transcription initiation and the first event of strand transfer. My analysis of reverse transcription initiation, from the structural biology perspective, highlights the fascinating questions and current challenges to understanding this process (Current Opinion in Structural Biology, 2020). My analysis of the mutation pattern at the 5’UTR of HIV vrial RNA reveals structure-function relationship (J Gen Virol, 2023). I set up a system to prepare a synthetic full-length viral RNA in the lab allows to start revealing the architecture and dynamics of the HIV viral RNA (in progress). This work paves the road to structural studies to reveal the conformational landscape of HIV viral RNA during reverse transcription. 
 
-1. Krupkin M*, Jackson LN*, Ha B*, Puglisi EV. “Advances in understanding the initiation of HIV-1 reverse transcription”. Current Opinion in Structural Biology (2020). Link.
-2. Nouhin J, Tzou PL, Rhee SY, Sahoo MK, Pinsky BA, Krupkin M, Puglisi JD, Puglisi EV, Shafer RW. Human immunodeficiency virus 1 5'-leader mutations in plasma viruses before and after the development of reverse transcriptase inhibitor-resistance mutations. J Gen Virol (2023). Link.
+1. **Krupkin M***, Jackson LN*, Ha B*, Puglisi EV. “Advances in understanding the initiation of HIV-1 reverse transcription”. Current Opinion in Structural Biology (2020). Link.
+2. Nouhin J, ... **Krupkin M**, Puglisi JD, Puglisi EV, Shafer RW. Human immunodeficiency virus 1 5'-leader mutations in plasma viruses before and after the development of reverse transcriptase inhibitor-resistance mutations. J Gen Virol (2023). Link.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HgKtNtVx-oQ?si=yAvsifTjvDl3rw0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Mucus in health and disease 
 During my time at MIT, I focused on developing a system to study the structure and function of mucus by using purified mucin gels and microfluidics (Krupkin et al, Biomacromolecules, 2023). My work set the foundation to study the interaction between mucins and human Galactin-3 (JACS Au, 2024), and Intelectin 2 (submitted) using mucus gel that I reconstituted from mucins I purified. This work lays the basis for clinical research of the permeability of various mucus layers, which plays a key role in health and disease. Furthermore, my system can be used to study drug delivery. 
-1. Wagner CE*, **Krupkin M** *, Smith-Dupont KB*, Wu CM, Bustos NA, Witten J, Ribbeck K. Comparison of Physicochemical Properties of Native Mucus and Reconstituted Mucin Gels. Biomacromolecules (2023). Link. *First co-authors.
+1. Wagner CE*, **Krupkin M***, Smith-Dupont KB*, Wu CM, Bustos NA, Witten J, Ribbeck K. Comparison of Physicochemical Properties of Native Mucus and Reconstituted Mucin Gels. Biomacromolecules (2023). Link. *First co-authors.
 2. Diehl RC, ..., **Krupkin M**, Ribbeck K, Kulik HJ, and Kiessling LL. A CH-π Interaction Is Required for Human Galectin-3 Function. JACS Au (2024). Link.
 3. Dugan AE, …, **Krupkin M**, Cárcamo-Oyarce G, Ribbeck K, Xavier RJ, Bevins CL, and Kiessling LL. Intelectin-2 is a broad-spectrum antimicrobial lectin. Submitted to Nature Communication. BioRxiv Link. 
 
@@ -37,7 +37,7 @@ In addition to my main project described above, I contributed to uncovering the 
 4. Auerbach-Nevo T, ... **Krupkin M**, ... Yonath A. “Ribosomal antibiotics: Contemporary challenges”. Antibiotics (2016). Link.
 5. Matzov D, ... **Krupkin M**, Zimmerman E, Rozenberg H, Bashan A, Fridman M, Yonath A. “Structural insights of lincosamides targeting the ribosome of Staphylococcus aureus”. Nucleic Acids Res (2017). Link.
 6. Wekselman I, ... **Krupkin M**, Rozenberg H, Bashan A, Friedlander G, Kjeldgaard J, Ingmer H, Lindahl L, Zengel JM, Yonath A. “The Ribosomal Protein uL22 Modulates the Shape of the Protein Exit Tunnel”. Structure (2017). Link.
-7. Prabhakar A*, Krahn N*, Zhang J*, Vargas-Rodriguez O, **Krupkin M**, Fu Z, Acosta-Reyes FJ, Ge X, Choi J, Crnkovic ́A, Ehrenberg M, Puglisi EV, So ̈ll, and Puglisi J. Uncovering translation roadblocks during the development of a synthetic tRNA. Nucleic Acids Res (2022). Link. Journal cover. Link.
+7. Prabhakar A*, ... **Krupkin M**, Fu Z, Acosta-Reyes FJ, Ge X, Choi J, Crnkovic ́A, Ehrenberg M, Puglisi EV, So ̈ll, and Puglisi J. Uncovering translation roadblocks during the development of a synthetic tRNA. Nucleic Acids Res (2022). Link. Journal cover. Link.
 
 ![](/images/avilamycin-wide.png) 
 
