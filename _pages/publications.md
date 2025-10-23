@@ -32,7 +32,7 @@ author_profile: true
  <h2>Contributing author list:</h2>
  
 6. **Intelectin-2 is a broad-spectrum antimicrobial lectin.**              
-   Dugan A, Syangtan D, Nonnecke EB, Chorghade RS, Peiffer AJ, Yao JJ, Ille-Bunn J, Sergio D,  Pishchany G, Dhennezel C, Vlamakis H, Bae S,Johnson S, Ellis C, Ghosh S, Alty JW, Barnes CE, **Krupkin M**, Ribbeck K, Xavier R, Bevins C, and Kiessling L. [Link](https://www.biorxiv.org/content/10.1101/2025.06.09.658748v1)
+   Dugan A, Syangtan D, Nonnecke EB, Chorghade RS, Peiffer AJ, Yao JJ, Ille-Bunn J, Sergio D,  Pishchany G, Dhennezel C, Vlamakis H, Bae S, Johnson S, Ellis C, Ghosh S, Alty JW, Barnes CE, **Krupkin M**, Ribbeck K, Xavier R, Bevins C, and Kiessling L. [Link](https://www.biorxiv.org/content/10.1101/2025.06.09.658748v1). Submitted. 
 7. **4D Crystallography Captures Transient IF1-Ribosome Dynamics in Translation Initiation.**
    Yapici I, Dao H, Yokoi S, **Krupkin M**, …, Puglisi EV, Puglisi JD, Wakatsuki S, and DeMirci H. Submitted. 
 9.	**A CH-π Interaction Is Required for Human Galectin-3 Function.**
