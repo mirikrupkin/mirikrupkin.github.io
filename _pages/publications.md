@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 
-[Miri Krupkin](https://www.ncbi.nlm.nih.gov/pubmed/?term=miri+krupkin) at pubmed.
+[Miri Krupkin](https://www.ncbi.nlm.nih.gov/pubmed/?term=miri+krupkin) at pubmed.                                           
 
- <h2> First and *co-first author list: </h2>
+ **First and \*co-first author list:**                                                                                                 
  
 1. **Comparison of Physicochemical Properties of Native Mucus and Reconstituted Mucin Gels.**            
   Wagner CE<sup>*</sup>, **Krupkin M**<sup>*</sup>, Smith-Dupont KB<sup>*</sup>, Wu CM, Bustos NA, Witten J, Ribbeck K.        
@@ -27,9 +27,9 @@ author_profile: true
 5. **A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome.**           
   **Krupkin M**, Matzov D, Tang H, Metz M, Kalaora R, Belousoff MJ, Zimmerman E, Bashan A, Yonath A.                      
   Philos Trans R Soc Lond B Biol Sci. 2011 Oct 27;366(1580):2972-8. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3158926/). **- Research highlight**, “The chemical origins of life and its early evolution: an introduction”, Phil. Trans. R. Soc. B3662853–2856 (2011).           
-  ![](/images/2011-protoribosome.png)
+  ![](/images/2011-protoribosome.png)                                                                                             
 
- <h2>Contributing author list:</h2>
+ **Contributing author list:**                                                                                                        
  
 6. **Intelectin-2 is a broad-spectrum antimicrobial lectin.**              
    Dugan A, Syangtan D, Nonnecke EB, Chorghade RS, Peiffer AJ, Yao JJ, Ille-Bunn J, Sergio D,  Pishchany G, Dhennezel C, Vlamakis H, Bae S, Johnson S, Ellis C, Ghosh S, Alty JW, Barnes CE, **Krupkin M**, Ribbeck K, Xavier R, Bevins C, and Kiessling L. [Link](https://www.biorxiv.org/content/10.1101/2025.06.09.658748v1). Submitted. 
