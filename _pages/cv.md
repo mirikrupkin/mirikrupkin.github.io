@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV & Industry Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,211 +9,117 @@ redirect_from:
 
 {% include base_path %}
 
-<i>[Download CV](https://mirikrupkin.github.io/files/Krupkin_CV-2020.pdf)</i>.
+# Curriculum Vitae & Industry Resume
+
+<div style="margin-bottom: 25px; padding: 16px; background-color: #f6f8fa; border-left: 4px solid #0969da; border-radius: 6px;">
+  <p style="margin: 0 0 8px 0; font-weight: bold; font-size: 1.05em; color: #1f2328;">Download Formatted PDF Documents:</p>
+  <ul style="margin: 0; padding-left: 20px; line-height: 1.7;">
+    <li><a href="/files/Miri_Krupkin_Resume_Industry.pdf" style="font-weight: bold; color: #0969da;">Download Industry & Applied AI Resume (PDF) ↗</a> — <i>Tailored for Computational Structural Biology, TechBio Platforms, and Frontier AI Labs (2-Page Brief).</i></li>
+    <li><a href="/files/Miri_Krupkin_Academic_CV.pdf" style="color: #57609a;">Download Full Academic CV (PDF) ↗</a> — <i>Comprehensive record including all publications, honors, consortium governance, and invited lectures.</i></li>
+  </ul>
+</div>
+
+Honors, Fellowships & National Recognition
+======
+* **Leading Edge Fellow (2025):** Selected for the premier, highly competitive national fellowship and symposium program honoring outstanding women and non-binary postdocs transitioning to scientific independence.
+* **Compass Scholar (2025):** Washington University in St. Louis.
+* **New England Future Faculty Fellow (2025):** Regional recognition for emerging leaders in biomedical research.
+* **NSF Award, RNA 2021 (2021):** The RNA Society Annual Meeting.
+* **Adams Ph.D. Fellowship (2012 – 2016):** Prestigious national doctoral award of the Israel Academy of Sciences and Humanities ($100,000+ plus tuition).
+* **Clinical Research Fellowship Award (2016):** Cincinnati Children’s Hospital Medical Center.
+* **Best Lecture Award (2015):** Genetics, Genomics and Evolution Conference, Tel Aviv University.
+* **Vallee Lindau Fellow (2013):** Competitive award to attend the 63rd Lindau Nobel Laureate Meeting, Germany.
+* **Schächter Summer Research Scholar (2007):** Bar-Ilan University.
+* **Dean’s Honors List (2006):** Bar-Ilan University (Graduated B.Sc. *Magna Cum Laude*).
+
+Technical Skills & Computational Tooling
+======
+* **Structural AI & Computational Biology:** Macromolecular model validation, generative prediction evaluation (AlphaFold 3 / ESMFold), Hungarian algorithm multi-chain assignment (`linear_sum_assignment`), coarse-grained phosphorus (P) backbone superimposition, solvent accessibility (RASA / Shrake-Rupley), automated pLDDT mapping, py3Dmol interactive 3D visualizers.
+* **Software Engineering & Data Infrastructure:** Python (NumPy vectorized broadcasting, SciPy, BioPython, pandas), PyTest test-driven design, REST APIs (RCSB PDB, EBI AlphaFold DB), MATLAB automation pipelines, high-performance computing (Linux/Slurm on Stanford Sherlock).
+* **Experimental Structural Biology:** High-resolution Cryo-EM (Single Particle Analysis) & Cryo-ET (tilt-series acquisition, in situ tomographic reconstruction on Titan Krios and Glacios), macromolecular X-ray crystallography, synchrotron beamline operations (ESRF, SLS, Diamond).
+* **Biophysics & Single-Molecule Kinetics:** Total Internal Reflection Fluorescence (TIRF) microscopy, Zero-Mode Waveguide (ZMW / PacBio RS), custom microfluidics, biomimetic hydrogels, macromolecular surface chemistry.
+* **Enzyme & Large RNA Engineering:** In vitro transcription (IVT) and purification of massive viral RNAs (>9,000 nt), RNA capping, poly(A) tailing, viral packaging into Virus-Like Particles (VLPs), rational structure-based mutagenesis.
+
+Production Software Suites
+======
+* **[FoldCheck-RNA ↗](https://github.com/mirikrupkin/foldcheck-rna):** Automated nucleic acid structural validation suite bridging generative predictions with empirical Cryo-EM and crystallographic ground truth. Implements coarse-grained phosphorus (P) backbone superimposition and a 30+ non-canonical nucleotide modification registry.
+* **[FoldCheck-Pro ↗](https://github.com/mirikrupkin/foldcheck-pro):** Production pipeline evaluating generative protein models against empirical structures, leveraging the Hungarian algorithm for asymmetric heterodimer chain pairing and dynamic pLDDT/RASA surface classification.
+
+Research Experience
+======
+
+**Research Scientist / Postdoctoral Fellow | Stanford University** `2019 – Present`  
+*Department of Structural Biology | Advisers: Joseph Puglisi and Elisabetta Viani Puglisi*  
+* **Platform Innovation for Long RNA:** Engineered a proprietary large-scale RNA stabilization protocol, eliminating solution precipitation for highly structured, long RNA transcripts (>9,000 nt) to enhance formulation stability and yield scaling.
+* **Modular VLP Encapsidation Platform:** Established proof-of-concept for a synthetic packaging platform encapsidating full-length viral genomic RNAs into Virus-Like Particles (VLPs), validating viral mechanics via in situ cryo-ET and single-molecule fluorescence.
+* **Resolving Genetic Code Expansion Roadblocks (NAR, 2022):** Solved Cryo-EM structures of ribosome-bound synthetic tRNAs to diagnose severe A-to-P translocation bottlenecks. Designed a targeted point mutation that relieved steric hindrance, increasing conformational flexibility and translation kinetics (*Nucleic Acids Res*, Journal Cover).
+* **Consortium Leadership (CHEETAH):** Primary presenter and technical lead within the NIH-funded CHEETAH consortium, reporting milestone-driven progress to align multidisciplinary PIs across global institutions.
+
+**Postdoctoral Research Associate | Massachusetts Institute of Technology (MIT)** `2017 – 2019`  
+*Department of Biological Engineering | Adviser: Katharina Ribbeck*  
+* **Biomimetic Hydrogels & Microfluidics:** Engineered end-to-end microfluidic devices and synthetic mucin matrices to quantify barrier permeability and establish physicochemical baselines for drug delivery (*Biomacromolecules*, co-first author).
+* **Cross-Functional Program Execution:** Led multi-site hospital biospecimen procurement protocols under strict IRB/HIPAA compliance, provisioning clinical mucins to drive collaborative discoveries published in *JACS Au* and *Nat Commun*.
+
+**Doctoral Researcher | Weizmann Institute of Science** `2008 – 2016`  
+*Department of Structural Biology | Adviser: Nobel Laureate Ada Yonath*  
+* **Ribosomal Antibiotic Mechanisms:** Determined high-resolution crystal structures of bacterial ribosomes complexed with novel orthosomycin, macrolide, and pleuromutilin therapeutics, uncovering the allosteric resistance mechanism of avilamycin (8 papers including a PNAS 2016, co-first author).
+* **Synthetic Protoribosome Engineering:** Directed cross-functional teams in synthesizing and modeling prebiotic RNA machines capable of uncatalyzed peptide bond formation (*Phil Trans R Soc B*, *PNAS*, *NAR*).
+* **Synchrotron Campaign Operations:** Managed continuous 24-hour synchrotron diffraction campaigns across European storage rings (ESRF France, SLS Switzerland, Diamond UK) with zero instrument downtime.
 
 Education
 ======
-**2011 - 2016**     
-Ph.D. in Structural Biology, Weizmann Institute of Science.
-
-**2008 - 2011**     
-M.Sc. in Structural Biology, Weizmann Institute of Science.
-
-**2005 - 2008**     
-B.Sc. in Chemistry, Bar-Ilan University, graduated magna cum laude.
-              
-
-Research experience
-======
-**Postdoc, Stanford University**           
-Laboratory of Joseph Puglisi and Elisabetta Viani Puglisi.                   
-Research focus: Architecture of HIV viral RNA. 
-    
-**Ph.D., Weizmann Institute of Science**              
-Adviser: Ada Yonath.                          
-Thesis: The Origin of the Ribosome and its Paralyzation by Antibiotics.
-   
-**M.Sc., Weizmann Institute of Science**                   
-Adviser: Ada Yonath.                    
-Thesis: Towards the Determination of the Structure of *Mycobacterium smegmatis* Ribosome.
-   
-**Rotations at Weizmann Institute of Science**                 
-1) Ribosome structure and function, laboratory of Ada Yonath.                
-2) Organized lipid domains, laboratory of Lia Addadi.              
-3) Nano and bio composite materials, laboratory of Daniel Wagner.                    
-
-**Undergraduate research at Bar Ilan University**                
-Conducting polymers, laboratory of Joseph Frey.
-                    
-
+* **Ph.D. in Structural Biology (Direct Track from M.Sc.)** | Weizmann Institute of Science `2008 – 2016`  
+  * *Adviser: Nobel Laureate Ada Yonath*  
+  * *Selected for accelerated direct doctoral track; awarded Adams Ph.D. Fellowship*
+* **B.Sc. in Chemistry** | Bar-Ilan University `2005 – 2008`  
+  * *Graduated Magna Cum Laude*
 
 Publications
 ======
-**Advances in understanding the initiation of HIV-1 reverse transcription**           
-**Krupkin M**<sup>*</sup>, Jackson LN<sup>*</sup>, Ha B<sup>*</sup>, Puglisi EV.                  
-Current Opinion in Structural Biology, Volume 65, December 2020, Pages 175-183.            
-[link](https://www.sciencedirect.com/science/article/pii/S0959440X20301354?via%3Dihub).
+*<sup>*</sup> Equal contribution*
 
-**Structural insights of lincosamides targeting the ribosome of Staphylococcus aureus**           
-Matzov D<sup>*</sup>, Eyal Z<sup>*</sup>, Benhamou RI, Shalev-Benami M, Halfon Y, **Krupkin M**, Zimmerman E, Rozenberg H, Bashan A, Fridman M, Yonath A.             
-Nucleic Acids Res. 2017 Sep 29;45(17):10284-10292.            
-[link](https://academic.oup.com/nar/article/45/17/10284/4056233).           
+1. **Krupkin M**, OhAinle M, Sundquist W, Puglisi JD, Puglisi EV. Packaging a synthetic full-length HIV viral RNA into functional virions. *(In preparation, manuscript available upon request)*.
+2. Dugan AE, ..., **Krupkin M**, Ribbeck K, Xavier R, Bevins C, Kiessling L. Intelectin-2 is a broad-spectrum antimicrobial lectin. *Nature Communications* (2026). [Link](https://www.biorxiv.org/content/10.1101/2025.06.09.658748v1).
+3. Yapici I, Dao H, Yokoi S, **Krupkin M**, Puglisi EV, Puglisi JD, Wakatsuki S, DeMirci H. 4D Crystallography Captures Transient IF1-Ribosome Dynamics in Translation Initiation. *(Submitted to EMBO J)*.
+4. Christensen D, ..., **Krupkin M**, ..., Sundquist W. Efficient HIV-1 Endogenous Reverse Transcription and Integration in a Cell-Free System. *(Submitted)*.
+5. Diehl RC, ..., **Krupkin M**, Ribbeck K, Kulik HJ, Kiessling LL. A CH-π Interaction Is Required for Human Galectin-3 Function. *JACS Au* (2024). [Link](https://pubs.acs.org/doi/10.1021/jacsau.4c00357).
+6. Wagner CE<sup>*</sup>, **Krupkin M**<sup>*</sup>, Smith-Dupont KB<sup>*</sup>, Wu CM, Bustos NA, Witten J, Ribbeck K. Comparison of Physicochemical Properties of Native Mucus and Reconstituted Mucin Gels. *Biomacromolecules* (2023). [Link](https://pubs.acs.org/doi/10.1021/acs.biomac.2c01016).
+7. Nouhin J, ..., **Krupkin M**, Puglisi JD, Puglisi EV, Shafer RW. Human immunodeficiency virus 1 5'-leader mutations in plasma viruses before and after the development of reverse transcriptase inhibitor-resistance mutations. *J Gen Virol* (2023). [Link](https://www.microbiologyresearch.org/content/journal/jgv/10.1099/jgv.0.001898).
+8. Prabhakar A<sup>*</sup>, Krahn N<sup>*</sup>, Zhang J<sup>*</sup>, Vargas-Rodriguez O, **Krupkin M**, Fu Z, Acosta-Reyes FJ, Ge X, Choi J, Crnkovic A, Ehrenberg M, Puglisi EV, Söll D, Puglisi JD. Uncovering translation roadblocks during the development of a synthetic tRNA. *Nucleic Acids Res* (2022). **Journal Cover**. [Link](https://academic.oup.com/nar/article/50/18/10201/6649945).
+9. Bose T, Fridkin G, Davidovich C, **Krupkin M**, Dinger N, Falkovich AH, Peleg Y, Agmon I, Bashan A, Yonath A. Origin of life: proto ribosome forms peptide bonds and links RNA and protein dominated worlds. *Nucleic Acids Res* (2022). [Link](https://academic.oup.com/nar/article/50/4/1815/6523807). Featured in Nature News.
+10. **Krupkin M**<sup>*</sup>, Jackson LN<sup>*</sup>, Ha B<sup>*</sup>, Puglisi EV. Advances in understanding the initiation of HIV-1 reverse transcription. *Curr Opin Struct Biol* (2020). [Link](https://www.sciencedirect.com/science/article/pii/S0959440X20301354).
+11. Matzov D<sup>*</sup>, Eyal Z<sup>*</sup>, Benhamou RI, Shalev-Benami M, Halfon Y, **Krupkin M**, Zimmerman E, Rozenberg H, Bashan A, Fridman M, Yonath A. Structural insights of lincosamides targeting the ribosome of Staphylococcus aureus. *Nucleic Acids Res* (2017). [Link](https://academic.oup.com/nar/article/45/17/10284/4056233).
+12. Wekselman I, Zimmerman E, Davidovich C, Belousoff M, Matzov D, **Krupkin M**, Rozenberg H, Bashan A, Friedlander G, Kjeldgaard J, Ingmer H, Lindahl L, Zengel JM, Yonath A. The Ribosomal Protein uL22 Modulates the Shape of the Protein Exit Tunnel. *Structure* (2017). [Link](https://www.cell.com/structure/fulltext/S0969-2126(17)30184-3).
+13. **Krupkin M**<sup>*</sup>, Wekselman I<sup>*</sup>, Matzov D, Eyal Z, Diskin Posner Y, Rozenberg H, Zimmerman E, Bashan A, Yonath A. Avilamycin and evernimicin induce structural changes in rProteins uL16 and CTC that enhance the inhibition of A-site tRNA binding. *Proc Natl Acad Sci USA* (2016). [Link](https://www.pnas.org/content/113/44/E6796).
+14. Eyal Z<sup>*</sup>, Matzov D<sup>*</sup>, **Krupkin M**, Paukner S, Riedl R, Rozenberg H, Zimmerman E, Bashan A, Yonath A. A novel pleuromutilin antibacterial compound, its binding mode and selectivity mechanism. *Sci Rep* (2016). [Link](https://www.nature.com/articles/srep39004).
+15. Auerbach-Nevo T, ..., **Krupkin M**, ..., Yonath A. Ribosomal antibiotics: Contemporary challenges. *Antibiotics (Basel)* (2016). [Link](https://www.mdpi.com/2079-6382/5/3/24).
+16. Eyal Z<sup>*</sup>, Matzov D<sup>*</sup>, **Krupkin M**, Wekselman I, Paukner S, Zimmerman E, Rozenberg H, Bashan A, Yonath A. Structural insights into species-specific features of the ribosome from the pathogen Staphylococcus aureus. *Proc Natl Acad Sci USA* (2015). [Link](https://www.pnas.org/content/112/43/E5805).
+17. Sun L, Xiong Y, Bashan A, Zimmerman E, Shulman Daube S, Peleg Y, Albeck S, Unger T, Yonath H, **Krupkin M**, Matzov D, Yonath A. A recombinant collagen–mRNA platform for controllable protein synthesis. *Chembiochem* (2015). [Link](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201500205).
+18. **Krupkin M**, Bashan A, Yonath A. Glimpse into the Origin of Life: What was First, the Genetic Code or its Products, the Proteins? *Why does Evolution Matter? The Importance of Understanding Evolution*, Cambridge Scholars Publishing (2014). [Link](https://books.google.com/books?id=f-OmBgAAQBAJ).
+19. Huang L, **Krupkin M**, Bashan A, Yonath A, Massa L. Protoribosome by quantum kernel energy method. *Proc Natl Acad Sci USA* (2013). [Link](https://www.pnas.org/content/110/37/14900).
+20. **Krupkin M**, Matzov D, Tang H, Metz M, Kalaora R, Belousoff MJ, Zimmerman E, Bashan A, Yonath A. A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome. *Phil Trans R Soc B Biol Sci* (2011). [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3158926/).
+21. Bashan A, Zimmerman E, Belousoff MJ, Rozenberg H, Davidovich C, Wekselman I, Shapira T, **Krupkin M**, Yonath A. The ribosome as drug target: lessons from 3D structures. *Isr Chem Soc* (2010). **Journal Cover**.
+22. Davidovich C, Belousoff M, Wekselman I, Shapira T, **Krupkin M**, Zimmerman E, Bashan A, Yonath A. The proto-ribosome: An ancient nano-machine for peptide bond formation. *Isr J Chem* (2010). **Journal Cover**.
 
-**The ribosomal protein uL22 modulates the shape of the protein exit tunnel**           
-Wekselman I, Zimmerman E, Davidovich C, Belousoff M, Matzov D, **Krupkin M**, Rozenberg H, Bashan A, Friedlander G, Kjeldgaard J, Ingmer H, Lindahl L, Zengel JM, Yonath A.            
-Structure. 2017 Aug 1;25(8):1233-1241.e3. Epub 2017 Jul 6.           
-[link](https://www.cell.com/structure/fulltext/S0969-2126(17)30184-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0969212617301843%3Fshowall%3Dtrue).
-
-**Avilamycin and evernimicin induce structural changes in rProteins uL16 and CTC that enhance the inhibition of A-site tRNA binding**           
-**Krupkin M<sup>*</sup>**, Wekselman I<sup>*</sup>, Matzov D, Eyal Z, Diskin Posner Y, Rozenberg H, Zimmerman E, Bashan A, Yonath A.            
-Proc Natl Acad Sci U S A. 2016 Nov 1;113(44):E6796-E6805.           
-[link](https://www.pnas.org/content/113/44/E6796).            
-
-**A novel pleuromutilin antibacterial compound, its binding mode and selectivity mechanism**           
-Eyal Z<sup>*</sup>, Matzov D<sup>*</sup>, **Krupkin M**, Paukner S, Riedl R, Rozenberg H, Zimmerman E, Bashan A, and Yonath A.            
-Sci Rep. 2016 Dec 13;6:39004.           
-[link](https://www.nature.com/articles/srep39004)           
-
-**Ribosomal antibiotics: Contemporary challenges**           
-Auerbach-Nevo T, Baram D, Bashan A, Belousoff M, Breiner E, Davidovich C, Cimicata G, Eyal Z, Halfon Y, **Krupkin M**, … Yonath A.            
-Antibiotics (Basel). 2016 Jun 29;5(3). pii: E24.           
-[link](https://www.mdpi.com/2079-6382/5/3/24)           
-
-**Structural insights into species-specific features of the ribosome from the pathogen staphylococcus aureus**           
-Eyal Z<sup>*</sup>, Matzov D<sup>*</sup>, **Krupkin M**, Wekselman I, Paukner S, Zimmerman E, Rozenberg H, Bashan A, Yonath A.           
-Proc Natl Acad Sci U S A. 2015 Oct 27;112(43):E5805-14.            
-[link](https://www.pnas.org/content/112/43/E5805)
-
-**A recombinant collagen–mRNA platform for controllable protein synthesis**           
-Sun L, Xiong Y, Bashan A, Zimmerman E, Shulman Daube S, Peleg Y, Albeck S, Unger T, Yonath H, **Krupkin M**, Matzov D, Yonath A.            
-Chembiochem. 2015 Jul 6;16(10):1415-9.           
-[link](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.201500205)           
-
-**Chapter 6: Glimpse into the origin of life: What was first, the genetic code or its products, the proteins?**           
-**Krupkin M**, Bashan A, Yonath A.             
-“Why does Evolution Matter? The Importance of Understanding Evolution”, G. Trueba, ed. (Cambridge Scholars Publishing),(2014), p. 87-100.            
-[link](https://books.google.com/books?id=f-OmBgAAQBAJ&pg=PA87&lpg=PA87&dq=Glimpse+into+the+Origin+of+Life:+What+was+First,+the+Genetic+Code+or+its+Products,+the+Proteins&source=bl&ots=OfDCcxfFms&sig=ACfU3U1jf3a2PyFrnEm_H8k-J_vAotgYvg&hl=en&sa=X&ved=2ahUKEwjwgOjcz_XpAhXTIjQIHcnGBGkQ6AEwAXoECAkQAQ#v=onepage&q=Glimpse%20into%20the%20Origin%20of%20Life%3A%20What%20was%20First%2C%20the%20Genetic%20Code%20or%20its%20Products%2C%20the%20Proteins&f=false)
-
-**Protoribosome by quantum kernel energy method**           
-Huang L, **Krupkin M**, Bashan A, Yonath A, Massa L.           
-Proc Natl Acad Sci U S A. 2013 Sep 10;110(37):14900-5.           
-[link](https://www.pnas.org/content/110/37/14900)           
-
-**A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome**           
-**Krupkin M**, Matzov D, Tang H, Metz M, Kalaora R, Belousoff MJ, Zimmerman E, Bashan A, Yonath A.                      
-Philos Trans R Soc Lond B Biol Sci. 2011 Oct 27;366(1580):2972-8.           
-[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3158926/).  
-
-**The ribosome as drug target: lessons from 3D structures**           
-Bashan A, Zimmerman E, Belousoff MJ, Rozenberg H, Davidovich C, Wekselman I, Shapira T, **Krupkin M**, Yonath A.           
-Isr Chem Soc. 2010, 25, 10-18.           
-
-**The proto-ribosome : An ancient nano-machine for peptide bond formation**           
-Davidovich C, Belousoff M, Wekselman I, Shapira T, **Krupkin M**, Zimmerman E, Bashan A, Yonath A.            
-Isr J Chem. 2010 Jun 18;50(1):29-35.           
-
-<sup>*</sup> Equal contribution.
-
-  
-  
-  
-Conferences and Presentations 
+Consortium Leadership & Invited Talks (Selected)
 ======
-**2019** 
+* **2026:** Bay Area RNA Conference, UCSF | *Invited Talk*
+* **2025:** Inter-lab Symposium, Chan Zuckerberg Biohub, San Francisco | *Poster Presentation*
+* **2025:** HIV Structural Biology Meeting, NIH | *Invited Talk*
+* **2024:** CHEETAH Seminar Series, NIH | *Consortium Presentation*
+* **2022:** SLAC National Accelerator Laboratory | *Invited Panelist: Revolutionary 3-D Views of Viral RNA Using CryoEM*
+* **2020:** Talking Science Podcast | *Featured Guest: Future Directions in HIV Therapy*
+* **2019:** Simons Electron Microscopy Center, NY Structural Biology Center | *Invited Seminar*
+* **2019:** UCSF, Department of Biochemistry & Biophysics | *Invited Seminar*
+* **2019:** University of Utah, Department of Chemistry | *Invited Seminar*
+* **2017:** MIT, Department of Biological Engineering | *Invited Seminar*
+* **2016:** Cincinnati Children's Hospital Medical Center | *Invited Seminar*
+* **2009 – 2017:** Synchrotron Beamline Operations (ESRF France, SLS Switzerland, Diamond UK)
 
-- **Guest seminar**: Layers of Protection: from molecular mechanisms to organism defense. School of medicine, Stanford. 
-- **Seminar**: [Avilamycin Induces Structural Changes In Ribosomal Proteins uL16 And CTC That Enhance The Inhibition Of A-Site tRNA Binding](https://semc.nysbc.org/avilamycin-induces-structural-changes-in-ribosomal-proteins-ul16-and-ctc-that-enhance-the-inhibition-of-a-site-trna-binding). Simons electron microscopy center, New York Structural Biology Center.
-- **Guest seminar**: Layers of Protection: from molecular mechanisms to organism defense. Biochemistry and Biophysics department, UCSF. 
-- **Guest seminar**: Layers of Protection: from molecular mechanisms to organism defense. Chemistry department, University of Utah. 
-
-
-**2016**
-- **Guest seminar**: Origin of The Ribosome and its Paralyzation by Antibiotics. Biological engineering department, MIT.
-- **Talk**: The origin of the ribosome: A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome. Israel Society for Astrobiology and the Origin of Life (ILASOL), 29th annual meeting,
-Ben-Gurion University, Israel.
-- **Talk**: Avilamycin induces structural changes in rProteins uL16 and CTC that enhance the inhibition of A-site tRNA binding. 8th Graduate Students Chemistry Symposium, Ben-Gurion University, Israel.
-- **Talk**: [The structure of avilamycin bound to the large ribosomal subunit](https://www.praglab.org/ica2016). Israel Crystallography Association Meeting ICA2016, Tel-Aviv University, Israel. 
-- **Poster**: The structure of avilamycin bound to the large ribosomal subunit. Ribosome Structure and Function EMBO conference, Strasbourg, France.
-
-**2015**
-
-- **Oral**: The origin of the ribosome: A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome. Genetics, Genomics and Evolution conference, Tel-Aviv University, Israel. **Best Talk Award**
-
-**2014**
-
-- **Poster**: The origin of the ribosome: A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome. The Society for Molecular Biology and Evolution SMBE2014 meeting, San Juan, Puerto Rico.
-- **Poster**: The origin of the ribosome: A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome.The RNA society 19th annual meeting, Quebec, Canada. 
-- **Poster**:  The origin of the ribosome: A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome. Structure and dynamics of RNA interactions - 4th Annual Summer Symposium, Montreal, Canada.
-
-**2013**
-
-- **Talk**: The Ribosome’s Origin – The Proto Ribosome. RNA Bioinformatics Structure Function and Regulation workshop, Technion, Israel.
-- **Guest seminar**: The Ribosome’s Origin – The Proto Ribosome. School of medicine, Stanford, USA. 
-- **Poster**: The Ribosome’s Origin – The Proto Ribosome. Ribosomes, Napa, USA. 
-
-**2012**
-
-- **Talk**: “A vestige of a prebiotic bonding entity is functioning within the contemporary ribosome”. Israel Society for Astrobiology and the Origin of Life (ILASOL), 26th annual meeting, Weizmann Institute of Science, Israel.
-
-**2011**
-
-- **Poster**: "Mycobacterium Smegmatis Ribosome as A Tool for A Structural Insight into Antibiotics Action on Pathogens". ILANIT, Federation of the Israel Societies for Experimental Biology, Eilat, Israel.
-- **Seminar**: "Towards the Determination of the Structure of Mycobacterium smegmatis Ribosome". Structural Biology Department, Weizmann Institute of Science, Israel. 
-
-**2010**
-
-- **Talk**: "Towards the Determination of the Structure of Mycobacterium smegmatis Ribosome”.BCA/CCP4 Summer School in Protein Crystallography, Oxford, UK
-
-  
-Awards and Fellowships
+Academic Governance, Review & Leadership
 ======
-- **2016:** Travel fellowship award, Cincinnati Children’s Hospital Medical Center, Ohio, USA.
-
-- **2015:** Best talk, Genetics, Genomics and Evolution conference, Tel Aviv University.
-
-- **2013:** [Vallee travel fellowship award](https://www.thevalleefoundation.org/programs/lindau/miri-krupkin-msc-0), “The 63rd Lindau Nobel Laureate Meeting”, Germany.
-
-- **2012 - 2016:** [Adams Ph.D. fellowship](http://adams.academy.ac.il/fellow/miri-krupkin/) of the Israel Academy of Sciences and Humanities. 
-
-- **2007:** Schächter summer scholarship for research, Bar-Ilan University.
-
-- **2006:** Dean's Honors list, Bar-Ilan University.
-
-  
-Other Activities
-======
-
-**2020** 
-- S2C2 SLAC cryoEM Image Processing workshop, Stanford, USA. 
-- Retroviruses 2020 Cold Spring Harbor Laboratory Meeting, NY.
-- “Conference on Retroviruses and Opportunistic Infection- CROI 2020“, Boston, USA. 
-- Reviewer board for the international peer-reviewed journal [Antibiotics](https://www.mdpi.com/journal/antibiotics/submission_reviewers).
-
-**2019**	
-- “17th Course: Frontiers of Biophysics”, Erice, Italy. 	
-- Organizer of the [4th Annual MIT-Harvard Microbiome Symposium](https://microbiome2019.wordpress.com), Boston. 
-- Club leadership at the [microbiome club](https://microbiome.mit.edu/for-students/microbiome-club/), MIT.
-
-**2018** 
-- Mentor at the [MRL summer internship program](https://mrl.mit.edu/index.php/about-mrl/industry-collegium/157-at-the-forefront-of-new-technology), MIT. 
-- MIT Path of Professorship, MIT, USA.
-- Panel speaker: [Finding a postdoc](https://calendar.mit.edu/event/finding_a_postdoc#.XqJaci-ZPBI), MIT.
-- Organizer of “GlycoBioClub”- the MIT Glycobiology journal club, MIT.  
-
-**2017- 2019** 
-- Science outreach at the Boston Science Museum, Boston.  
-
-**2015** 
-- Organizer of the [Frontiers in Chemical Sciences Symposium](http://www.weizmann.ac.il/chemistry/sites/chemistry/files/17323poster16508_13.pdf), Israel.
-- Panel leader: Gender Balance in Chemical Sciences, Frontiers in Chemical Sciences Symposium, Weizmann Institute of Science.
-
-**2013** 
-- Chair of Weizmann Institute Student Council.
-- Panel organizer and speaker: How to choose a rotation lab, Weizmann Institute of Science.
-
-**2010** 
-- BCA/CCP4 Summer School in Protein Crystallography, Oxford, UK.
-
-**2009 - 2017** 
-- Synchrotron user. Locations: ESRF, France. SLS, Switzerland. Diamond, UK.
-- Instructor in “Chetz”, “The De-Shalit Research Camp (Zuta)” and other youth science programs of the Davidson Institute of Science Education, Israel.
+* **Editorial Board & Handling Editor:** *BMC Research Notes* (2022 – Present), *Antibiotics* (Guest Editor & Reviewer Board, 2020 – Present).
+* **Peer Reviewer:** 16+ manuscripts across *Antibiotics*, *Viruses*, *IJMS*, and *BMC*.
+* **Conference Leadership & Curation:** Co-Organizer and Moderator for BARC (Bay Area RNA Club 2020, 2023), MIT-Harvard Microbiome Symposium (2019), and Frontiers in Chemical Sciences Symposium (2015).
+* **Network Founder:** Founded and curated *The International Postdoc Club (Postdociot)* (2020 – Present), establishing global peer networks during COVID-19.
+* **Student Council Chair:** Weizmann Institute of Science (2013). Managed operating budget, directed institutional negotiations with leadership, and expanded community outreach initiatives.
