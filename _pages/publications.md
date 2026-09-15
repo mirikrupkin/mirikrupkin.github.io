@@ -34,7 +34,7 @@ A complete record of structural biology, molecular machines, and functional RNA 
    *JACS Au* (2024). [[DOI]](https://pubs.acs.org/doi/10.1021/jacsau.4c00357)
 
 7. **Comparison of Physicochemical Properties of Native Mucus and Reconstituted Mucin Gels.**  
-   Wagner CE&#42, **Krupkin M&#42**, Smith-Dupont KB&#42, Wu CM, Bustos NA, Witten J, Ribbeck K.  
+   Wagner CE, **Krupkin M**, Smith-Dupont KB, Wu CM, Bustos NA, Witten J, Ribbeck K.  
    *Biomacromolecules* (2023). [[DOI]](https://pubs.acs.org/doi/10.1021/acs.biomac.2c01016)
 
 8. **Human immunodeficiency virus 1 5'-leader mutations in plasma viruses before and after the development of reverse transcriptase inhibitor-resistance mutations.**  
@@ -50,11 +50,11 @@ A complete record of structural biology, molecular machines, and functional RNA 
    *Nucleic Acids Res* (2022). *Featured in Nature News*. [[DOI]](https://academic.oup.com/nar/article/50/4/1815/6523807)
 
 11. **Advances in understanding the initiation of HIV-1 reverse transcription.**  
-    **Krupkin M&#42**, Jackson LN&#42, Ha B&#42, Puglisi EV.  
+    **Krupkin M**, Jackson LN, Ha B, Puglisi EV.  
     *Curr Opin Struct Biol* (2020). [[DOI]](https://www.sciencedirect.com/science/article/pii/S0959440X20301354)
 
 12. **Structural insights of lincosamides targeting the ribosome of *Staphylococcus aureus*.**  
-    Matzov D&#42, Eyal Z&#42, Benhamou RI, Shalev-Benami M, Halfon Y, **Krupkin M**, Zimmerman E, Rozenberg H, Bashan A, Fridman M, Yonath A.  
+    Matzov D, Eyal Z, Benhamou RI, Shalev-Benami M, Halfon Y, **Krupkin M**, Zimmerman E, Rozenberg H, Bashan A, Fridman M, Yonath A.  
     *Nucleic Acids Res* (2017). [[DOI]](https://academic.oup.com/nar/article/45/17/10284/4056233)
 
 13. **The Ribosomal Protein uL22 Modulates the Shape of the Protein Exit Tunnel.**  
@@ -62,11 +62,11 @@ A complete record of structural biology, molecular machines, and functional RNA 
     *Structure* (2017). [[DOI]](https://www.cell.com/structure/fulltext/S0969-2126(17)30184-3)
 
 14. **Avilamycin and evernimicin induce structural changes in rProteins uL16 and CTC that enhance the inhibition of A-site tRNA binding.**  
-    **Krupkin M&#42**, Wekselman I&#42, Matzov D, Eyal Z, Diskin Posner Y, Rozenberg H, Zimmerman E, Bashan A, Yonath A.  
+    **Krupkin M**, Wekselman I, Matzov D, Eyal Z, Diskin Posner Y, Rozenberg H, Zimmerman E, Bashan A, Yonath A.  
     *Proc Natl Acad Sci USA* (2016). [[DOI]](https://www.pnas.org/content/113/44/E6796)
 
 15. **A novel pleuromutilin antibacterial compound, its binding mode and selectivity mechanism.**  
-    Eyal Z&#42, Matzov D&#42, **Krupkin M**, Paukner S, Riedl R, Rozenberg H, Zimmerman E, Bashan A, Yonath A.  
+    Eyal Z, Matzov D, **Krupkin M**, Paukner S, Riedl R, Rozenberg H, Zimmerman E, Bashan A, Yonath A.  
     *Sci Rep* (2016). [[DOI]](https://www.nature.com/articles/srep39004)
 
 16. **Ribosomal antibiotics: Contemporary challenges.**  
@@ -74,7 +74,7 @@ A complete record of structural biology, molecular machines, and functional RNA 
     *Antibiotics (Basel)* (2016). [[DOI]](https://www.mdpi.com/2079-6382/5/3/24)
 
 17. **Structural insights into species-specific features of the ribosome from the pathogen *Staphylococcus aureus*.**  
-    Eyal Z&#42, Matzov D&#42, **Krupkin M**, Wekselman I, Paukner S, Zimmerman E, Rozenberg H, Bashan A, Yonath A.  
+    Eyal Z, Matzov D, **Krupkin M**, Wekselman I, Paukner S, Zimmerman E, Rozenberg H, Bashan A, Yonath A.  
     *Proc Natl Acad Sci USA* (2015). [[DOI]](https://www.pnas.org/content/112/43/E5805)
 
 18. **A recombinant collagen–mRNA platform for controllable protein synthesis.**  
