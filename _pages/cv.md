@@ -20,10 +20,8 @@ redirect_from:
 Education
 ======
 
-| Degree | Field & Institution | Timeline |
-|:---|:---|:---:|
-| **Ph.D. in Structural Biology** | **Weizmann Institute of Science**<br>Direct Accelerated Track from M.Sc.<br><i>Adviser: Nobel Laureate Ada Yonath</i><br><i>Honors: Adams Ph.D. Fellowship of the Israel Academy of Sciences and Humanities</i> | 2008 – 2016 |
-| **B.Sc. in Chemistry** | **Bar-Ilan University**<br><i>Graduated Magna Cum Laude</i><br><i>Dean’s Honors List (2006)</i> | 2005 – 2008 |
+* **Ph.D. in Structural Biology**, **Weizmann Institute of Science**<br>, Direct Accelerated Track from M.Sc.<br><i>Adviser: Nobel Laureate Ada Yonath</i><br><i>Honors: Adams Ph.D. Fellowship of the Israel Academy of Sciences and Humanities</I>,  2008 – 2016.
+* **B.Sc. in Chemistry**, **Bar-Ilan University**<br><i>Graduated Magna Cum Laude</i><br><i>Dean’s Honors List (2006)</I>, 2005 – 2008.
 
 Honors, Fellowships & National Recognition
 ======
@@ -140,7 +138,7 @@ Publications
 3. Yapici I, Dao H, Yokoi S, **Krupkin M**, Puglisi EV, Puglisi JD, Wakatsuki S, DeMirci H. 4D Crystallography Captures Transient IF1-Ribosome Dynamics in Translation Initiation. *(Submitted to EMBO J)*.
 4. Christensen D, ..., **Krupkin M**, ..., Sundquist W. Efficient HIV-1 Endogenous Reverse Transcription and Integration in a Cell-Free System. *(Submitted)*.
 5. Diehl RC, Chorghade JS, Keys AM, Alam MM, Early SA, Dugan AE, **Krupkin M**, Ribbeck K, Kulik HJ, Kiessling LL. A CH-π Interaction Is Required for Human Galectin-3 Function. *JACS Au* (2024). [Link](https://pubs.acs.org/doi/10.1021/jacsau.4c00357).
-6. Wagner CE<sup>*</sup>, **Krupkin M**<sup>*</sup>, Smith-Dupont KB<sup>*</sup>, Wu CM, Bustos NA, Witten J, Ribbeck K. Comparison of Physicochemical Properties of Native Mucus and Reconstituted Mucin Gels. *Biomacromolecules* (2023). [Link](https://pubs.acs.org/doi/10.1021/acs.biomac.2c01016).
+6. Wagner CE&#42;, **Krupkin M&#42;**, Smith-Dupont KB&#42;, Wu CM, Bustos NA, Witten J, Ribbeck K. Comparison of Physicochemical Properties of Native Mucus and Reconstituted Mucin Gels. *Biomacromolecules* (2023). [Link](https://pubs.acs.org/doi/10.1021/acs.biomac.2c01016).
 7. Nouhin J, Tzou PL, Rhee SY, Sahoo MK, Pinsky BA, **Krupkin M**, Puglisi JD, Puglisi EV, Shafer RW. Human immunodeficiency virus 1 5'-leader mutations in plasma viruses before and after the development of reverse transcriptase inhibitor-resistance mutations. *J Gen Virol* (2023). [Link](https://www.microbiologyresearch.org/content/journal/jgv/0.001898).
 8. Prabhakar A<sup>*</sup>, Krahn N<sup>*</sup>, Zhang J<sup>*</sup>, Vargas-Rodriguez O, **Krupkin M**, Fu Z, Acosta-Reyes FJ, Ge X, Choi J, Crnkovic A, Ehrenberg M, Puglisi EV, Söll D, Puglisi JD. Uncovering translation roadblocks during the development of a synthetic tRNA. *Nucleic Acids Res* (2022). **Journal Cover**. [Link](https://academic.oup.com/nar/article/50/18/10201/6649945).
 9. Bose T, Fridkin G, Davidovich C, **Krupkin M**, Dinger N, Falkovich AH, Peleg Y, Agmon I, Bashan A, Yonath A. Origin of life: proto ribosome forms peptide bonds and links RNA and protein dominated worlds. *Nucleic Acids Res* (2022). [Link](https://academic.oup.com/nar/article/50/4/1815/6523807). Featured in Nature News.
