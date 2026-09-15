@@ -12,31 +12,31 @@ A selection of invited seminars, keynote presentations, panel sessions, and publ
 ## Invited Talks & Research Seminars
 
 ### Structural Dynamics of Viral & Functional RNA
-* **Bay Area RNA Conference**, UCSF (2026) — *Structural Dynamics of Viral RNA*
-* **HIV Structural Biology Meeting**, National Institutes of Health (2025) — *Invited Talk: Dynamic Complexes in Viral Assemblies*
-* **Inter-Lab Structural Biology Symposium**, Chan Zuckerberg Biohub (2025) — *Poster: Resolving Conformational Flexibility in Viral RNA*
-* **CHEETAH Consortium Seminar Series**, NIH (2022, 2024) — *Consortium Research Presentation*
-* **SLAC National Accelerator Laboratory** (2022) — *Invited Panelist & Seminar Speaker*
+* **Bay Area RNA Conference**, UCSF, Talk. 2026. 
+* **HIV Structural Biology Meeting**, National Institutes of Health, Invited Talk. 2025. 
+* **Inter-Lab Structural Biology Symposium**, Chan Zuckerberg Biohub, Talk. 2025.
+* **CHEETAH Consortium Seminar Series**, NIH, Consortium Research Presentation. 2022 & 2024
+* **SLAC National Accelerator Laboratory**, Invited Panelist. 2022.
 
-### Mucosal Barrier Biophysics & Defense Mechanisms
-* **Department of Structural Biology**, Stanford University School of Medicine (2019) — *Layers of Protection: From Molecular Mechanisms to Organism Defense*
-* **Department of Biochemistry & Biophysics**, UCSF (2019) — *Layers of Protection: From Molecular Mechanisms to Organism Defense*
-* **Department of Chemistry**, University of Utah (2019) — *Layers of Protection: From Molecular Mechanisms to Organism Defense*
-* **Frontiers of Biophysics (17th Course)**, Erice, Italy (2019) — *Flash Talk: Mucosal Barrier Biophysics*
+### Mucosal Barrier Biophysics & Defense Mechanisms. Layers of Protection: From Molecular Mechanisms to Organism Defense. 
+* **Department of Structural Biology**, Stanford University School of Medicine, Seminar. 2019. 
+* **Department of Biochemistry & Biophysics**, UCSF, Seminar. 2019. 
+* **Department of Chemistry**, University of Utah, Seminar. 2019. 
+* **Frontiers of Biophysics (17th Course)**, Erice, Italy, Flash Talk. 2019.
 
-### Ribosomal Mechanisms & Antibiotic Targeting
-* **Simons Electron Microscopy Center (SEMC)**, New York Structural Biology Center (2017) — *[Avilamycin Induces Structural Changes in Ribosomal Proteins uL16 and CTC](https://semc.nysbc.org/avilamycin-induces-structural-changes-in-ribosomal-proteins-ul16-and-ctc-that-enhance-the-inhibition-of-a-site-trna-binding)*
-* **Department of Biological Engineering**, Massachusetts Institute of Technology (2016) — *Origin of the Ribosome and its Paralyzation by Antibiotics*
-* **Cincinnati Children’s Hospital Medical Center** (2016) — *Structural Pharmacology of Ribosomal Targeting*
-* **Ribosome Structure and Function**, EMBO Conference, Strasbourg, France (2016) — *Poster: Structure of Avilamycin Bound to the Large Ribosomal Subunit*
-* **Israel Crystallography Association (ICA)**, Tel-Aviv University (2016) — *[The Structure of Avilamycin Bound to the Large Ribosomal Subunit](https://www.praglab.org/ica2016)*
-* **8th Graduate Students Chemistry Symposium**, Ben-Gurion University (2016) — *[Avilamycin-Induced Conformational Rearrangements in rProteins](https://pjdcommunica.files.wordpress.com/2017/11/abstract-booklet.pdf)*
+### Ribosomal Mechanisms & Antibiotic Targeting. Avilamycin induces structural changes in the ribosome. 
+* **Simons Electron Microscopy Center (SEMC)**, New York Structural Biology Center, *[Seminar](https://semc.nysbc.org/avilamycin-induces-structural-changes-in-ribosomal-proteins-ul16-and-ctc-that-enhance-the-inhibition-of-a-site-trna-binding)*. 2019.
+* **Department of Biological Engineering**, Massachusetts Institute of Technology, Seminar. 2016.
+* **Cincinnati Children’s Hospital Medical Center**, Seminar. 2016. 
+* **Ribosome Structure and Function**, EMBO Conference, Strasbourg, France, Poster. 2016.
+* **Israel Crystallography Association (ICA)**, Tel-Aviv University, *[Talk](https://www.praglab.org/ica2016)*. 2016.
+* **8th Graduate Students Chemistry Symposium**, Ben-Gurion University, *[talk](https://pjdcommunica.files.wordpress.com/2017/11/abstract-booklet.pdf)*. 2016
 
 ### Proto-Ribosome Evolution & Prebiotic Machines
-* **Genetics, Genomics, and Evolution Conference**, Tel-Aviv University (2015) — *The Origin of the Ribosome: A Prebiotic Bonding Machine within the Modern Ribosome* (**Best Lecture Award**)
-* **Israel Society for Astrobiology and the Origin of Life (ILASOL)**, Ben-Gurion University (2016) — *[A Prebiotic Bonding Machine Operating in the Contemporary Ribosome](https://in.bgu.ac.il/teva/chem/Documents/ILASOL29Program.pdf)*
-* **RNA Bioinformatics, Structure, Function, and Regulation Workshop**, Technion (2013) — *The Ribosome’s Origin: The Proto-Ribosome*
-* **Department of Medicine**, Stanford University (2013) — *The Proto-Ribosome Hypothesis*
+* **Genetics, Genomics, and Evolution Conference**, Tel-Aviv University, (**Best Lecture Award**). 2015.
+* **Israel Society for Astrobiology and the Origin of Life (ILASOL)**, Ben-Gurion University, *[talk](https://in.bgu.ac.il/teva/chem/Documents/ILASOL29Program.pdf)*. 2016. 
+* **RNA Bioinformatics, Structure, Function, and Regulation Workshop**, Technion, Talk. 2013.
+* **Department of Medicine**, Stanford University, Seminar. 2013.
 
 ---
 
