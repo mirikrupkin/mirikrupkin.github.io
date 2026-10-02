@@ -15,7 +15,7 @@ A complete record of structural biology, molecular machines, and functional RNA 
 
 2. **4D Crystallography Captures Transient IF1-Ribosome Dynamics in Translation Initiation.**  
    Yapici I, Dao H, Yokoi S, **Krupkin M**, Puglisi EV, Puglisi JD, Wakatsuki S, DeMirci H.  
-   *(Submitted to EMBO J)*.
+   *(Submitted)*.
 
 3. **Efficient HIV-1 Endogenous Reverse Transcription and Integration in a Cell-Free System.**  
    Christensen D, ..., **Krupkin M**, ..., Sundquist W.  
