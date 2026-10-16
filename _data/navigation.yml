@@ -30,8 +30,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "InspectRNA"
-    url: /software/inspectrna/
+#  - title: "InspectRNA"
+#    url: /software/inspectrna/
     
 #  - title: "Guide"
 #    url: /markdown/
